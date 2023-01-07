@@ -1,7 +1,6 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
-import CocktailsPage from './CocktailsPage'
-import heroImg from '../images/hero-img2.png'
+import heroImg from '../images/hero-img9.png'
 import './WelcomePage.css'
 
 export default function WelcomePage() {

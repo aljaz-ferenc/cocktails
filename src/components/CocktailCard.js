@@ -14,7 +14,6 @@ export default function CocktailCard({showCocktail, favorites, id, name, descrip
     return (
         <Link to={`cocktails/${id}`} onClick={showCocktail} id={id} className='cocktail-card' key={Math.random()}>
             <div className='cocktail-card__image--container'>
-                <div className='cocktail-card__star'><img onClick={handleAddToFavorites} className={`star-img ${activateStar()}`} src={starSolid} /></div>
                 <div className='cocktail-card__image' alt="cocktail image"><img className='image-img' src={image} />
                 </div>
                 <div className='cocktail-card__ingredients'>{ingredients.map(ing => {

@@ -13,7 +13,15 @@
     color: rgb(254, 197, 124);
     text-transform: uppercase;
 }
-.categories__button:hover{
+.categories__button:hover,
+.categories__button.active{
     background-color: rgb(254, 197, 124);
     color: rgb(13, 16, 12);
 }
+
+.categories__button:hover:active{
+    background-color: rgb(209, 161, 103);
+    color: rgb(13, 16, 12);
+}
+
+

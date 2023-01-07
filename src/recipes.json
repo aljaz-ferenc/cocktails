@@ -1,8 +1,11 @@
 [
   {
     "name": "Chocolate Martini",
-    "id":0,
-    "description": "The Chocolate Martini is a decadent concoction that easily can double as dessert. It fell into disfavor for some time, shunned for its sweetness, but as many top-notch bars now offer their own renditions of an Espresso Martini, this drink is poised for a comeback as well. The key is using the highest-quality ingredients possible, such as Giffard creme de cacao and Godiva chocolate liqueur. It’s still plenty sweet, though, so keep in mind it’s far better as a nightcap than for kicking off an evening. Better yet, drink it as your dessert for a two-birds-with-one-stone effect.",
+    "id": 0,
+    "description": [
+      "Another member of the Martini-in-name-only family (witness the Espresso Martini, the French Martini and even the Porn Star Martini) but so delicious it can slide, the Chocolate Martini is a decadent concoction that easily can double as dessert. It fell into disfavor for some time, shunned for its sweetness, but as many top-notch bars now offer their own renditions of an Espresso Martini, this drink is poised for a comeback as well. The key is using the highest-quality ingredients possible, such as Giffard creme de cacao and Godiva chocolate liqueur.",
+      "It’s still plenty sweet, though, so keep in mind it’s far better as a nightcap than for kicking off an evening. Better yet, drink it as your dessert for a two-birds-with-one-stone effect."
+    ],
     "ingredients": [
       {
         "name": "cocoa powder",
@@ -26,19 +29,22 @@
       }
     ],
     "steps": [
-        "Add a small amount of chocolate liqueur into a small rimmed plate. Add a small amount of cocoa powder to another plate. Dip the rim of an inverted cocktail glass into the liqueur, then into the cocoa powder. Set aside.",
-        "Add the chocolate liqueur, creme de cacao, vodka and half-and-half into a shaker with ice and shake until well-chilled.",
-        "Strain into the prepared glass."
+      "Add a small amount of chocolate liqueur into a small rimmed plate. Add a small amount of cocoa powder to another plate. Dip the rim of an inverted cocktail glass into the liqueur, then into the cocoa powder. Set aside.",
+      "Add the chocolate liqueur, creme de cacao, vodka and half-and-half into a shaker with ice and shake until well-chilled.",
+      "Strain into the prepared glass."
     ],
     "category": {
       "by_spirit": "vodka"
     },
-    "image":"https://www.liquor.com/thmb/g_dy2ps4TKTbbSKeTXhdfoFlYfg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chocolate-martini-720x720-primary-fa2b9afe0c87401d9c5f0fcaf6c3273b.jpg"
+    "image": "https://www.liquor.com/thmb/g_dy2ps4TKTbbSKeTXhdfoFlYfg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chocolate-martini-720x720-primary-fa2b9afe0c87401d9c5f0fcaf6c3273b.jpg"
   },
   {
     "name": "Pom-Blood-Orange Old Fashioned",
-    "id":1,
-    "description": "From bartender Nick Mautone, who also created the Bloody Kirby and Holiday at the Hive, this cocktail combines two wintertime favorite fruits: blood oranges and pomegranate. He brings them together in a format similar to that of a Wisconsin Old Fashioned, muddling the fruit with sugar and bitters before adding the spirit and shaking it all together. Vodka is, of course, an uncommon spirit choice for an Old Fashioned-style cocktail, but its neutral flavor lets this drink’s fruit components shine. Blood orange is a winter season citrus fruit with maroon flesh and a sweet flavor with a hint of something akin to raspberry. Pomegranate juice has, of course, been a fad for several years, but this recipe calls for the arils, or seeds. If you don’t feel like cracking open a fresh pomegranate yourself, the arils can be purchased already extracted and often packaged in bags at many supermarkets.",
+    "id": 1,
+    "description": [
+      "From bartender Nick Mautone, who also created the Bloody Kirby and Holiday at the Hive, this cocktail combines two wintertime favorite fruits: blood oranges and pomegranate. He brings them together in a format similar to that of a Wisconsin Old Fashioned, muddling the fruit with sugar and bitters before adding the spirit and shaking it all together. Vodka is, of course, an uncommon spirit choice for an Old Fashioned-style cocktail, but its neutral flavor lets this drink’s fruit components shine.",
+      "Blood orange is a winter season citrus fruit with maroon flesh and a sweet flavor with a hint of something akin to raspberry. Pomegranate juice has, of course, been a fad for several years, but this recipe calls for the arils, or seeds. If you don’t feel like cracking open a fresh pomegranate yourself, the arils can be purchased already extracted and often packaged in bags at many supermarkets."
+    ],
     "ingredients": [
       {
         "name": "blood orange peel",
@@ -66,20 +72,24 @@
       }
     ],
     "steps": [
-        "Add the blood orange peels, pomegranate arils, sugar and bitters into a shaker and muddle gently.",
-        "Add the vodka and fill with ice, and shake until well-chilled.",
-        "Double-strain into a rocks glass over fresh ice.",
-        "Garnish with an orange twist."
+      "Add the blood orange peels, pomegranate arils, sugar and bitters into a shaker and muddle gently.",
+      "Add the vodka and fill with ice, and shake until well-chilled.",
+      "Double-strain into a rocks glass over fresh ice.",
+      "Garnish with an orange twist."
     ],
     "category": {
       "by_spirit": "vodka"
     },
-    "image":"https://www.liquor.com/thmb/RmAijsNkPvt1ALr9YsVFZ4i7CHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pom-blood-orange-old-fashioned-720x720-primary-f6d60bf28f7e4d7bbe4b695f1e60109b.jpg"
+    "image": "https://www.liquor.com/thmb/RmAijsNkPvt1ALr9YsVFZ4i7CHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pom-blood-orange-old-fashioned-720x720-primary-f6d60bf28f7e4d7bbe4b695f1e60109b.jpg"
   },
   {
     "name": "Miss Elena",
-    "id":2,
-    "description": "Beau Bradley, the head bartender at Michelin-starred Korean restaurant Cote in New York City and its subterranean bar, Undercote, created this riff on an Espresso Martini. Perhaps the most notable adjustment to the standard formula is Bradley’s use of Mr Black, a particularly intensely flavored coffee liqueur, to stand in for both the standard Kahlúa and the usual freshly brewed espresso. 'It cuts the time of making an Espresso Martini by not having to make a shot of espresso every time one is ordered', he says. Bradley adds a couple of unconventional ingredients—a citrusy amaro and a dessert-style sherry—that bring depth, complexity and elegance to the cocktail, he says. 'PX sherry adds dried fruit and dark chocolate flavors, while the Amaro Nonino adds notes of caramel, bitter orange and cinnamon', he says. 'All of these flavors are great complements in a balanced Espresso Martini.'",
+    "id": 2,
+    "description": [
+      "Beau Bradley, the head bartender at Michelin-starred Korean restaurant Cote in New York City and its subterranean bar, Undercote, created this riff on an Espresso Martini.",
+      "Perhaps the most notable adjustment to the standard formula is Bradley’s use of Mr Black, a particularly intensely flavored coffee liqueur, to stand in for both the standard Kahlúa and the usual freshly brewed espresso. “It cuts the time of making an Espresso Martini by not having to make a shot of espresso every time one is ordered,” he says.",
+      "Bradley adds a couple of unconventional ingredients—a citrusy amaro and a dessert-style sherry—that bring depth, complexity and elegance to the cocktail, he says. 'PX sherry adds dried fruit and dark chocolate flavors, while the Amaro Nonino adds notes of caramel, bitter orange and cinnamon,' he says. 'All of these flavors are great complements in a balanced Espresso Martini.'"
+    ],
     "ingredients": [
       {
         "name": "Belvedere vodka",
@@ -107,21 +117,21 @@
       }
     ],
     "steps": [
-        "Add the vodka, coffee liqueur, amaro, sherry and simple syrup into a shaker with ice and hard-shake.",
-        "Fine-strain into a chilled cocktail glass.",
-        "Garnish with an edible viola flower."
+      "Add the vodka, coffee liqueur, amaro, sherry and simple syrup into a shaker with ice and hard-shake.",
+      "Fine-strain into a chilled cocktail glass.",
+      "Garnish with an edible viola flower."
     ],
     "category": {
       "by_spirit": "vodka"
     },
-    "image":"https://www.liquor.com/thmb/yB5X8ob1Tjn_u427hqTCUTDoI1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/miss-elena_main_720x720-ef38901d3bd547889a4ae39d24d8b0a0.jpg"
+    "image": "https://www.liquor.com/thmb/yB5X8ob1Tjn_u427hqTCUTDoI1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/miss-elena_main_720x720-ef38901d3bd547889a4ae39d24d8b0a0.jpg"
   },
   {
     "name": "Hairy Navel",
-    "id":3,
+    "id": 3,
     "description": [
-        "The Fuzzy Navel, the ubiquitous two-ingredient drink from the 1980s, begat this higher-octane spinoff that adds vodka to its parent cocktail’s mix of peach schnapps and orange juice. Its predecessor was named after peach fuzz, for the fruit-flavored liqueur that forms half the drink, and the type of oranges juiced; this version is “hairier.” It’s still fairly soft as cocktails go, however, as perfect for sipping poolside or on the beach as at a ’80s-themed party.",
-        "Its simplicity renders it perfect for riffing. Try using a fruit-flavored vodka, orange or otherwise, for a more complex variation. It’s also perfect for sizing up and throwing into a punch bowl with some ice for a crowd-pleasing party punch."
+      "The Fuzzy Navel, the ubiquitous two-ingredient drink from the 1980s, begat this higher-octane spinoff that adds vodka to its parent cocktail’s mix of peach schnapps and orange juice. Its predecessor was named after peach fuzz, for the fruit-flavored liqueur that forms half the drink, and the type of oranges juiced; this version is “hairier.” It’s still fairly soft as cocktails go, however, as perfect for sipping poolside or on the beach as at a ’80s-themed party.",
+      "Its simplicity renders it perfect for riffing. Try using a fruit-flavored vodka, orange or otherwise, for a more complex variation. It’s also perfect for sizing up and throwing into a punch bowl with some ice for a crowd-pleasing party punch."
     ],
     "ingredients": [
       {
@@ -146,769 +156,768 @@
       }
     ],
     "steps": [
-        "Add the vodka, peach schnapps and orange juice into a Collins glass with ice and stir briefly to combine.",
-        "Garnish with an orange wheel and a preserved cherry."
+      "Add the vodka, peach schnapps and orange juice into a Collins glass with ice and stir briefly to combine.",
+      "Garnish with an orange wheel and a preserved cherry."
     ],
     "category": {
       "by_spirit": "vodka"
     },
-    "image":"https://www.liquor.com/thmb/qjJrK1iwfNOWCxRVMilj564pEVw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hairy-navel-720x720-primary-76d1528a7fc54fbc9e93c2521ecef5f0.jpg"
+    "image": "https://www.liquor.com/thmb/qjJrK1iwfNOWCxRVMilj564pEVw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hairy-navel-720x720-primary-76d1528a7fc54fbc9e93c2521ecef5f0.jpg"
   },
   {
     "name": "Missionary’s Downfall",
-    "id":4,
+    "id": 4,
     "description": [
-        "The irresistible nature of the Missionary’s Downfall is right in its name. And who could turn down this frozen, fruity concoction of mint, white rum, peach liqueur, lime juice, and pineapple? While it’s often overshadowed by more ubiquitous Tiki drinks like the Mai Tai and the Navy Grog, the Missionary’s Downfall is the invention of Donn Beach, founder of the Don the Beachcomber bars and the godfather of Tiki himself.",
-        "Born in New Orleans as Ernest Raymond Beaumont Gantt, the man who renamed himself Donn Beach was a restless world traveler who ended up in Los Angeles as Prohibition was winding down. Inspired by his beach escapades, Beach rented a 25-seat Hollywood bar in 1934, decorating the space with souvenirs from his South Pacific travels and slinging blends of fruit juice, unheard-of liqueurs, and multiple rums that he called Rhum Rhapsodies. He also coined a philosophy which inspired countless thatch-roofed copycats across the country, most notably Trader Vic’s in Oakland, California: “If you can’t get to paradise, I’ll bring it to you.” Donn’s most famous liquid legacy might just be the Zombie, a powerful blend of three rums, anise-flavored liqueur, falernum, grenadine, lime juice, and a cinnamon-grapefruit mix bearing his name. But he also invented the less lethal, if equally delicious, Missionary’s Downfall in the 1930s or ‘40s.",
-        "Today, you’ll find plenty of variations on the classic: Don’s Mai Tai Bar at Hawaii’s Royal Kona Resort (connected to Beach himself) adds ginger liqueur. At Three Dots and a Dash in Chicago, the drink has been served with nitro-muddled mint and also alongside an optional green Chartreuse float. And at Beachbum Berry’s Latitude 29 in New Orleans, there’s an option to swap the light rum for vodka. But the recipe below hews closely to the original.",
-        "A white rum and up to a dozen mint leaves produce a crisp, refreshing cocktail, while creme de peche and honey syrup sweeten the mix. (Avoid using peach schnapps, which will yield a sweeter beverage.) Pineapple chunks and freshly squeezed lime juice, meanwhile, lend their fruity brightness. Compared to other Tiki cocktails, which are often notoriously strong, the Missionary’s Downfall is relatively moderate in alcohol. But as its name implies, you might not be able to limit yourself to just one."
+      "The irresistible nature of the Missionary’s Downfall is right in its name. And who could turn down this frozen, fruity concoction of mint, white rum, peach liqueur, lime juice, and pineapple? While it’s often overshadowed by more ubiquitous Tiki drinks like the Mai Tai and the Navy Grog, the Missionary’s Downfall is the invention of Donn Beach, founder of the Don the Beachcomber bars and the godfather of Tiki himself.",
+      "Born in New Orleans as Ernest Raymond Beaumont Gantt, the man who renamed himself Donn Beach was a restless world traveler who ended up in Los Angeles as Prohibition was winding down. Inspired by his beach escapades, Beach rented a 25-seat Hollywood bar in 1934, decorating the space with souvenirs from his South Pacific travels and slinging blends of fruit juice, unheard-of liqueurs, and multiple rums that he called Rhum Rhapsodies. He also coined a philosophy which inspired countless thatch-roofed copycats across the country, most notably Trader Vic’s in Oakland, California: “If you can’t get to paradise, I’ll bring it to you.” Donn’s most famous liquid legacy might just be the Zombie, a powerful blend of three rums, anise-flavored liqueur, falernum, grenadine, lime juice, and a cinnamon-grapefruit mix bearing his name. But he also invented the less lethal, if equally delicious, Missionary’s Downfall in the 1930s or ‘40s.",
+      "Today, you’ll find plenty of variations on the classic: Don’s Mai Tai Bar at Hawaii’s Royal Kona Resort (connected to Beach himself) adds ginger liqueur. At Three Dots and a Dash in Chicago, the drink has been served with nitro-muddled mint and also alongside an optional green Chartreuse float. And at Beachbum Berry’s Latitude 29 in New Orleans, there’s an option to swap the light rum for vodka. But the recipe below hews closely to the original.",
+      "A white rum and up to a dozen mint leaves produce a crisp, refreshing cocktail, while creme de peche and honey syrup sweeten the mix. (Avoid using peach schnapps, which will yield a sweeter beverage.) Pineapple chunks and freshly squeezed lime juice, meanwhile, lend their fruity brightness. Compared to other Tiki cocktails, which are often notoriously strong, the Missionary’s Downfall is relatively moderate in alcohol. But as its name implies, you might not be able to limit yourself to just one."
     ],
-        "ingredients": [
-        {
-            "name": "white rum",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "creme de peche",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "pineapple chunk",
-            "unit": "1/4 cup"
-          },
-          {
-            "name": "lime juice",
-            "unit": "3/4 ounce"
-          },
-          {
-            "name": "honey syrup",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "mint leaves",
-            "unit": "8-12"
-          },
-          {
-            "name": "mint sprig",
-            "unit": "garnish"
-          },
-          {
-            "name": "pineapple wedge",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "white rum",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "creme de peche",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "pineapple chunk",
+        "unit": "1/4 cup"
+      },
+      {
+        "name": "lime juice",
+        "unit": "3/4 ounce"
+      },
+      {
+        "name": "honey syrup",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "mint leaves",
+        "unit": "8-12"
+      },
+      {
+        "name": "mint sprig",
+        "unit": "garnish"
+      },
+      {
+        "name": "pineapple wedge",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add all ingredients into a blender with 3/4 cup of ice and blend for about 20 seconds.",
-        "Pour into a Collins glass.",
-        "Garnish with a mint sprig and a pineapple wedge.",
-        "Serve with a straw."
+      "Add all ingredients into a blender with 3/4 cup of ice and blend for about 20 seconds.",
+      "Pour into a Collins glass.",
+      "Garnish with a mint sprig and a pineapple wedge.",
+      "Serve with a straw."
     ],
     "category": {
       "by_spirit": "rum"
     },
-    "image":"https://www.liquor.com/thmb/lX3k14ySVzdPeAwzbiVJi4jyhEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/missionarys-downfall-720x720-primary-efa0c0e2c952476faa2fb439393b9e54.jpg"
+    "image": "https://www.liquor.com/thmb/lX3k14ySVzdPeAwzbiVJi4jyhEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/missionarys-downfall-720x720-primary-efa0c0e2c952476faa2fb439393b9e54.jpg"
   },
   {
     "name": "Game Day Sangria",
-    "id":5,
+    "id": 5,
     "description": [
-        "Whether you’re a sports fan or not, there’s magic to any game day gathering, mainly where the snacks and drinks are concerned. When it comes to the latter, there are usually ice-cold cans involved. But for those looking for a large-format cocktail to go with the large-format event, Game Day Sangria is the answer.",
-        "'Being a lower-ABV drink, Sangria is great for day drinking during a game', says Laura Newman, who co-owns and co-manages Queen’s Park and Neon Moon alongside partner Larry Townley in Birmingham, Alabama. 'It lends itself to batching, so if you’re hosting a group you can spend more time entertaining your guests—and watching the game—instead of making tons of cocktails.' Besides, it would almost be weird to make a single-serving Sangria—while we can’t pinpoint the exact origin of this internationally-beloved punch, we do know that it’s been around for centuries and has generally been served to a crowd.",
-        "The term “game day” can refer to a variety of different sports throughout the year, and although the Game Day Sangria recipe features flavors associated most closely with the fall season (read: football season), apple is an ingredient that shines all year long. And, according to Townley, pairing it with ginger is always a sound decision. “Apple and ginger is a classic flavor combo that’s crisp and invigorating,” he shares, adding that while this balanced Sangria recipe keeps the sweetness in check, you can always add a bit of simple syrup to taste. “It’s a sessionable cocktail that you can enjoy responsibly throughout the game.” Plus, Newman adds, it’s a great option for beginners thanks to its quick and easy build."
+      "Whether you’re a sports fan or not, there’s magic to any game day gathering, mainly where the snacks and drinks are concerned. When it comes to the latter, there are usually ice-cold cans involved. But for those looking for a large-format cocktail to go with the large-format event, Game Day Sangria is the answer.",
+      "'Being a lower-ABV drink, Sangria is great for day drinking during a game', says Laura Newman, who co-owns and co-manages Queen’s Park and Neon Moon alongside partner Larry Townley in Birmingham, Alabama. 'It lends itself to batching, so if you’re hosting a group you can spend more time entertaining your guests—and watching the game—instead of making tons of cocktails.' Besides, it would almost be weird to make a single-serving Sangria—while we can’t pinpoint the exact origin of this internationally-beloved punch, we do know that it’s been around for centuries and has generally been served to a crowd.",
+      "The term “game day” can refer to a variety of different sports throughout the year, and although the Game Day Sangria recipe features flavors associated most closely with the fall season (read: football season), apple is an ingredient that shines all year long. And, according to Townley, pairing it with ginger is always a sound decision. “Apple and ginger is a classic flavor combo that’s crisp and invigorating,” he shares, adding that while this balanced Sangria recipe keeps the sweetness in check, you can always add a bit of simple syrup to taste. “It’s a sessionable cocktail that you can enjoy responsibly throughout the game.” Plus, Newman adds, it’s a great option for beginners thanks to its quick and easy build."
     ],
-        "ingredients": [
-        {
-            "name": "unfiltered apple cider or apple juice",
-            "unit": "32 ounces"
-          },
-          {
-            "name": "dry white wine",
-            "unit": "1 bottle"
-          },
-          {
-            "name": "hard apple cider",
-            "unit": "12 ounces"
-          },
-          {
-            "name": "ginger ale",
-            "unit": "8 ounces"
-          },
-          {
-            "name": "lemon juice",
-            "unit": "1 lemon"
-          },
-          {
-            "name": "apple slices",
-            "unit": "garnish"
-          },
-          {
-            "name": "lemon wheels",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "unfiltered apple cider or apple juice",
+        "unit": "32 ounces"
+      },
+      {
+        "name": "dry white wine",
+        "unit": "1 bottle"
+      },
+      {
+        "name": "hard apple cider",
+        "unit": "12 ounces"
+      },
+      {
+        "name": "ginger ale",
+        "unit": "8 ounces"
+      },
+      {
+        "name": "lemon juice",
+        "unit": "1 lemon"
+      },
+      {
+        "name": "apple slices",
+        "unit": "garnish"
+      },
+      {
+        "name": "lemon wheels",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Combine the apple cider or juice, white wine, hard cider, ginger ale, lemon juice, apple slices and lemon wheels in a large pitcher or punch bowl; reserve some lemon wheels and apple slices for garnishing.",
-        "Serve in a Mason jar over ice with a reusable straw.",
-        "Garnish individual servings with additional lemon wheels and apple slices."
+      "Combine the apple cider or juice, white wine, hard cider, ginger ale, lemon juice, apple slices and lemon wheels in a large pitcher or punch bowl; reserve some lemon wheels and apple slices for garnishing.",
+      "Serve in a Mason jar over ice with a reusable straw.",
+      "Garnish individual servings with additional lemon wheels and apple slices."
     ],
     "category": {
       "by_spirit": "vodka"
     },
-    "image":"https://www.liquor.com/thmb/I4nwiEwofw5O7du1a-ntOb0Hj94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2016__09__14124208__gameday-sangria-720-square-a93831fc6ab047eb92f6780a26e8a8cc.jpg"
+    "image": "https://www.liquor.com/thmb/I4nwiEwofw5O7du1a-ntOb0Hj94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2016__09__14124208__gameday-sangria-720-square-a93831fc6ab047eb92f6780a26e8a8cc.jpg"
   },
   {
     "name": "Forbidden Fruit",
-    "id":6,
+    "id": 6,
     "description": [
-        "Whenever the temperatures drop, it’s time to put away the Mojitos and spritzes and reach for drinks that complement cooler nights. Any spirit can be incorporated into a tasty fall cocktail, but certain bottles, like whiskey, dark rum and brandy, shine better than others. The Forbidden Fruit by bartending vet Aisha Sharpe combines apple brandy, Pimm’s No. 1, fresh lemon juice, a touch of simple syrup, and bitters, and is then topped with spicy ginger beer. It’s the equivalent of autumn in a glass but is still light and bright enough to whet your appetite for the season’s biggest meals.",
-        "Sharpe begins with Laird’s straight bottled-in-bond apple brandy, a 100-proof spirit made in New Jersey at the oldest licensed distillery in the U.S. Distilled entirely from apples, the rich and golden spirit is versatile in cocktails, with plenty of proof and distinct apple flavors.",
-        "Fresh lemon juice and simple syrup are a classic combination employed in countless drinks, providing citrus, sweetness and balance. From there, two kinds of bitters lend complexity, structure and aromatics. Angostura bitters have a bouquet of fruits, spices and herbs, while bright-red Peychaud’s bitters add some color alongside flavors of gentian and anise.",
-        "The next step is to top the shaken and strained concoction with ginger beer. This brewed beverage is a centuries-old drink that features a strong ginger flavor and spicy kick. It’s noticeably different than ginger ale, which is essentially ginger-flavored soda. Choose ginger beer for the best and most flavorful result. Garnish with a lemon half-wheel and sip the Forbidden Fruit whenever you're craving crisp flavors."
+      "Whenever the temperatures drop, it’s time to put away the Mojitos and spritzes and reach for drinks that complement cooler nights. Any spirit can be incorporated into a tasty fall cocktail, but certain bottles, like whiskey, dark rum and brandy, shine better than others. The Forbidden Fruit by bartending vet Aisha Sharpe combines apple brandy, Pimm’s No. 1, fresh lemon juice, a touch of simple syrup, and bitters, and is then topped with spicy ginger beer. It’s the equivalent of autumn in a glass but is still light and bright enough to whet your appetite for the season’s biggest meals.",
+      "Sharpe begins with Laird’s straight bottled-in-bond apple brandy, a 100-proof spirit made in New Jersey at the oldest licensed distillery in the U.S. Distilled entirely from apples, the rich and golden spirit is versatile in cocktails, with plenty of proof and distinct apple flavors.",
+      "Fresh lemon juice and simple syrup are a classic combination employed in countless drinks, providing citrus, sweetness and balance. From there, two kinds of bitters lend complexity, structure and aromatics. Angostura bitters have a bouquet of fruits, spices and herbs, while bright-red Peychaud’s bitters add some color alongside flavors of gentian and anise.",
+      "The next step is to top the shaken and strained concoction with ginger beer. This brewed beverage is a centuries-old drink that features a strong ginger flavor and spicy kick. It’s noticeably different than ginger ale, which is essentially ginger-flavored soda. Choose ginger beer for the best and most flavorful result. Garnish with a lemon half-wheel and sip the Forbidden Fruit whenever you're craving crisp flavors."
     ],
-        "ingredients": [
-        {
-            "name": "apple brandy",
-            "unit": "1 1/2 ounces"
-          },
-          {
-            "name": "Pimm’s No. 1",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "lemon juice",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "simple syrup",
-            "unit": "1 teaspoon"
-          },
-          {
-            "name": "Angostura bitters",
-            "unit": "2 dashes"
-          },
-          {
-            "name": "Peychaud’s bitters",
-            "unit": "2 dashes"
-          },
-          {
-            "name": "Ginger beer",
-            "unit": "to top"
-          },
-          {
-            "name": "lemon half-wheel",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "apple brandy",
+        "unit": "1 1/2 ounces"
+      },
+      {
+        "name": "Pimm’s No. 1",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "lemon juice",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "simple syrup",
+        "unit": "1 teaspoon"
+      },
+      {
+        "name": "Angostura bitters",
+        "unit": "2 dashes"
+      },
+      {
+        "name": "Peychaud’s bitters",
+        "unit": "2 dashes"
+      },
+      {
+        "name": "Ginger beer",
+        "unit": "to top"
+      },
+      {
+        "name": "lemon half-wheel",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add the Laird’s apple brandy, Pimm’s No. 1, lemon juice, simple syrup, Angostura bitters and Peychaud’s bitters into a shaker with ice and shake until well-chilled.",
-        "Strain into a highball glass filled with fresh ice.",
-        "Top with the ginger beer.",
-        "Garnish with a lemon half-wheel."
+      "Add the Laird’s apple brandy, Pimm’s No. 1, lemon juice, simple syrup, Angostura bitters and Peychaud’s bitters into a shaker with ice and shake until well-chilled.",
+      "Strain into a highball glass filled with fresh ice.",
+      "Top with the ginger beer.",
+      "Garnish with a lemon half-wheel."
     ],
     "category": {
       "by_spirit": "cognac"
     },
-    "image":"https://www.liquor.com/thmb/HDWMjxNIpULqUtEeeMw6oqIwoew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/forbidden-fruit-720x720-primary-86d556e31d814e19ae21d69b12922515.jpg"
+    "image": "https://www.liquor.com/thmb/HDWMjxNIpULqUtEeeMw6oqIwoew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/forbidden-fruit-720x720-primary-86d556e31d814e19ae21d69b12922515.jpg"
   },
   {
     "name": "Fog Cutter",
-    "id":7,
+    "id": 7,
     "description": [
-        "Cocktail names often offer fanciful promises: See the Corpse Reviver No. 2 and the Painkiller. According to the inventor of the Fog Cutter himself, this potent mix of three spirits, citrus juices, and orgeat, with a sherry float, may indeed clear things up for any drinker…but it’s just as likely to make them even foggier. “Fog Cutter, hell. After two of these you won’t even see the stuff,” wrote Victor “Trader Vic” Bergeron in his 1947 book Bartender’s Guide. ",
-        "While Tiki drinks often blend rums, this classic blends three different spirits: light rum, cognac, and London Dry gin. It’s similar in, ahem, spirit to another Bergeron invention, the Scorpion Bowl, which also includes multiple liquors and citrus juices. Although it’s undoubtedly strong, the drink is still delicious, thanks to the citrus juices and orgeat, an almond-based mainstay in Tiki cocktails. The drink also calls for a sherry float, slightly upping the alcohol ante. You’ll want to reach for an oloroso sherry for its sweetness and rich, nutty notes that pair well with the orgeat and citrus juices. ",
-        "Today, you’ll find many variations on the drink. San Francisco’s Smuggler’s Cove adds pisco to the mix in lieu of cognac; The now-shuttered Lost Lake in Chicago called for orange curaçao instead of orange juice and swapped the light rum for a funkier rhum agricole. But at Trader Vic’s, where it’s still called the Samoan Fog Cutter, the original recipe remains. The drink even has its own mug, but it will taste just as delicious out of a Collins glass. No matter how you serve it, the liquid inside will live up to its fog-clearing, or -enhancing, promises."
+      "Cocktail names often offer fanciful promises: See the Corpse Reviver No. 2 and the Painkiller. According to the inventor of the Fog Cutter himself, this potent mix of three spirits, citrus juices, and orgeat, with a sherry float, may indeed clear things up for any drinker…but it’s just as likely to make them even foggier. “Fog Cutter, hell. After two of these you won’t even see the stuff,” wrote Victor “Trader Vic” Bergeron in his 1947 book Bartender’s Guide. ",
+      "While Tiki drinks often blend rums, this classic blends three different spirits: light rum, cognac, and London Dry gin. It’s similar in, ahem, spirit to another Bergeron invention, the Scorpion Bowl, which also includes multiple liquors and citrus juices. Although it’s undoubtedly strong, the drink is still delicious, thanks to the citrus juices and orgeat, an almond-based mainstay in Tiki cocktails. The drink also calls for a sherry float, slightly upping the alcohol ante. You’ll want to reach for an oloroso sherry for its sweetness and rich, nutty notes that pair well with the orgeat and citrus juices. ",
+      "Today, you’ll find many variations on the drink. San Francisco’s Smuggler’s Cove adds pisco to the mix in lieu of cognac; The now-shuttered Lost Lake in Chicago called for orange curaçao instead of orange juice and swapped the light rum for a funkier rhum agricole. But at Trader Vic’s, where it’s still called the Samoan Fog Cutter, the original recipe remains. The drink even has its own mug, but it will taste just as delicious out of a Collins glass. No matter how you serve it, the liquid inside will live up to its fog-clearing, or -enhancing, promises."
     ],
-        "ingredients": [
-        {
-            "name": "light rum",
-            "unit": "11/2 ounces"
-          },
-          {
-            "name": "cognac",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "London Dry gin",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "lemon juice",
-            "unit": "2 ounces"
-          },
-          {
-            "name": "orange juice",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "orgeat",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "oloroso sherry",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "mint sprig",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "light rum",
+        "unit": "11/2 ounces"
+      },
+      {
+        "name": "cognac",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "London Dry gin",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "lemon juice",
+        "unit": "2 ounces"
+      },
+      {
+        "name": "orange juice",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "orgeat",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "oloroso sherry",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "mint sprig",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add all ingredients except the sherry into a shaker with ice and shake until well-chilled.",
-        "Strain into a chilled Collins glass filled with crushed ice, adding additional crushed ice if needed.",
-        "Float the sherry on top.",
-        "Garnish with a mint sprig."
+      "Add all ingredients except the sherry into a shaker with ice and shake until well-chilled.",
+      "Strain into a chilled Collins glass filled with crushed ice, adding additional crushed ice if needed.",
+      "Float the sherry on top.",
+      "Garnish with a mint sprig."
     ],
     "category": {
       "by_spirit": "cognac"
     },
-    "image":"https://www.liquor.com/thmb/ygh1MecLhGDPiwFJDXd4hWMbFo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fog-cutter-720x720-primary-8251330a9b9b41f880859c44f93bbf28.jpg"
+    "image": "https://www.liquor.com/thmb/ygh1MecLhGDPiwFJDXd4hWMbFo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fog-cutter-720x720-primary-8251330a9b9b41f880859c44f93bbf28.jpg"
   },
   {
     "name": "Fog Cutter",
-    "id":8,
+    "id": 8,
     "description": [
-        "Cocktail names often offer fanciful promises: See the Corpse Reviver No. 2 and the Painkiller. According to the inventor of the Fog Cutter himself, this potent mix of three spirits, citrus juices, and orgeat, with a sherry float, may indeed clear things up for any drinker…but it’s just as likely to make them even foggier. “Fog Cutter, hell. After two of these you won’t even see the stuff,” wrote Victor “Trader Vic” Bergeron in his 1947 book Bartender’s Guide. ",
-        "While Tiki drinks often blend rums, this classic blends three different spirits: light rum, cognac, and London Dry gin. It’s similar in, ahem, spirit to another Bergeron invention, the Scorpion Bowl, which also includes multiple liquors and citrus juices. Although it’s undoubtedly strong, the drink is still delicious, thanks to the citrus juices and orgeat, an almond-based mainstay in Tiki cocktails. The drink also calls for a sherry float, slightly upping the alcohol ante. You’ll want to reach for an oloroso sherry for its sweetness and rich, nutty notes that pair well with the orgeat and citrus juices. ",
-        "Today, you’ll find many variations on the drink. San Francisco’s Smuggler’s Cove adds pisco to the mix in lieu of cognac; The now-shuttered Lost Lake in Chicago called for orange curaçao instead of orange juice and swapped the light rum for a funkier rhum agricole. But at Trader Vic’s, where it’s still called the Samoan Fog Cutter, the original recipe remains. The drink even has its own mug, but it will taste just as delicious out of a Collins glass. No matter how you serve it, the liquid inside will live up to its fog-clearing, or -enhancing, promises."
+      "Cocktail names often offer fanciful promises: See the Corpse Reviver No. 2 and the Painkiller. According to the inventor of the Fog Cutter himself, this potent mix of three spirits, citrus juices, and orgeat, with a sherry float, may indeed clear things up for any drinker…but it’s just as likely to make them even foggier. “Fog Cutter, hell. After two of these you won’t even see the stuff,” wrote Victor “Trader Vic” Bergeron in his 1947 book Bartender’s Guide. ",
+      "While Tiki drinks often blend rums, this classic blends three different spirits: light rum, cognac, and London Dry gin. It’s similar in, ahem, spirit to another Bergeron invention, the Scorpion Bowl, which also includes multiple liquors and citrus juices. Although it’s undoubtedly strong, the drink is still delicious, thanks to the citrus juices and orgeat, an almond-based mainstay in Tiki cocktails. The drink also calls for a sherry float, slightly upping the alcohol ante. You’ll want to reach for an oloroso sherry for its sweetness and rich, nutty notes that pair well with the orgeat and citrus juices. ",
+      "Today, you’ll find many variations on the drink. San Francisco’s Smuggler’s Cove adds pisco to the mix in lieu of cognac; The now-shuttered Lost Lake in Chicago called for orange curaçao instead of orange juice and swapped the light rum for a funkier rhum agricole. But at Trader Vic’s, where it’s still called the Samoan Fog Cutter, the original recipe remains. The drink even has its own mug, but it will taste just as delicious out of a Collins glass. No matter how you serve it, the liquid inside will live up to its fog-clearing, or -enhancing, promises."
     ],
-        "ingredients": [
-          {
-            "name": " calvados",
-            "unit": "2 ounces"
-          },
-          {
-            "name": "lime juice",
-            "unit": "3/4 ounce"
-          },
-          {
-            "name": "grenadine",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "absinthe",
-            "unit": "2 dashes"
-          },
-          {
-            "name": "lime wheel",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": " calvados",
+        "unit": "2 ounces"
+      },
+      {
+        "name": "lime juice",
+        "unit": "3/4 ounce"
+      },
+      {
+        "name": "grenadine",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "absinthe",
+        "unit": "2 dashes"
+      },
+      {
+        "name": "lime wheel",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add all ingredients into a shaker with ice and shake until well-chilled.",
-        "Strain into a chilled coupe glass."
+      "Add all ingredients into a shaker with ice and shake until well-chilled.",
+      "Strain into a chilled coupe glass."
     ],
     "category": {
       "by_spirit": "cognac"
     },
-    "image":"https://www.liquor.com/thmb/EihheWbwR3NLAbzPkiMUO2azdTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pan-american-clipper-720x720-primary-ab20bcd0b81b41c0912b31f3842a8fc8.jpg"
+    "image": "https://www.liquor.com/thmb/EihheWbwR3NLAbzPkiMUO2azdTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pan-american-clipper-720x720-primary-ab20bcd0b81b41c0912b31f3842a8fc8.jpg"
   },
   {
     "name": "Ancient Mariner",
-    "id":9,
+    "id": 9,
     "description": [
-        "Whether or not a sailor’s life is for you, this spiced Tiki drink and Navy Grog riff from Jeff “Beachbum” Berry might be your new tropical favorite.",
-        "Like Donn Beach’s version of the Navy Grog, the Ancient Mariner includes an irresistible blend of rums and grapefruit and lime juices. Notably, it also calls for allspice dram, which lends aromatic baking-spice notes.",
-        "Try it yourself and toast to the hard-won efforts of Berry and his team. “We called it the Ancient Mariner because by the time we finished with it, that’s how old we felt,” he writes."
+      "Whether or not a sailor’s life is for you, this spiced Tiki drink and Navy Grog riff from Jeff “Beachbum” Berry might be your new tropical favorite.",
+      "Like Donn Beach’s version of the Navy Grog, the Ancient Mariner includes an irresistible blend of rums and grapefruit and lime juices. Notably, it also calls for allspice dram, which lends aromatic baking-spice notes.",
+      "Try it yourself and toast to the hard-won efforts of Berry and his team. “We called it the Ancient Mariner because by the time we finished with it, that’s how old we felt,” he writes."
     ],
-        "ingredients": [
-          {
-            "name": "demerara rum",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "blackstrap rum",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "allspice dram",
-            "unit": "1/4 ounce"
-          },
-          {
-            "name": "lime juice",
-            "unit": "3/4 ounce"
-          },
-          {
-            "name": "white grapefruit juice",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "simple syrup",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "lime wedge",
-            "unit": "garnish"
-          },
-          {
-            "name": "mint sprig",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "demerara rum",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "blackstrap rum",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "allspice dram",
+        "unit": "1/4 ounce"
+      },
+      {
+        "name": "lime juice",
+        "unit": "3/4 ounce"
+      },
+      {
+        "name": "white grapefruit juice",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "simple syrup",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "lime wedge",
+        "unit": "garnish"
+      },
+      {
+        "name": "mint sprig",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add all ingredients into a shaker with ice and shake until well-chilled.",
-        "Strain into a double rocks glass over crushed or pebble ice.",
-        "Garnish with a lime wedge and a mint sprig."
+      "Add all ingredients into a shaker with ice and shake until well-chilled.",
+      "Strain into a double rocks glass over crushed or pebble ice.",
+      "Garnish with a lime wedge and a mint sprig."
     ],
     "category": {
       "by_spirit": "rum"
     },
-    "image":"https://www.liquor.com/thmb/BFwd8hx25UHgN6phsPswbhindyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ancient-mariner-720x720-primary-c3d0dc150eef4d9ea29b1fb2ef314e40.jpg"
+    "image": "https://www.liquor.com/thmb/BFwd8hx25UHgN6phsPswbhindyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ancient-mariner-720x720-primary-c3d0dc150eef4d9ea29b1fb2ef314e40.jpg"
   },
   {
     "name": "El Fili Daiquiri",
-    "id":10,
+    "id": 10,
     "description": [
-        "“There are an amazing array of Philippine flavors you can play with in cocktails,” says Lee Watson, a bar consultant who works mainly in Manila and who crafted the bar program at Gugu Room, a Japanese-Filipino izakaya in New York City. Mango is among those ingredients, particularly as Filipino mango offers its own distinct flavor profile. “Philippine mangoes are sweeter than Mexican mangoes, which you typically see in the US,” says Watson. “It’s closer in flavor to a peach.”",
-        "To round out this mango-fueled Daiquiri riff, Watson adds a spoonful of yuzu kosho, a Japanese chile sauce fermented with yuzu. “I like playing with less obvious and contrasting flavor pairings,” he says. It adds a little heat to the typical Daiquiri format, as does a rim of calamansi honey (calamansi, a flavor-packed citrus, being another common Filipino ingredient) and shichimi togarashi, a Japanese spice blend. Tanduay, a Filipino rum, is the final component of this cocktail that represents the melding of two Asian food cultures."
+      "“There are an amazing array of Philippine flavors you can play with in cocktails,” says Lee Watson, a bar consultant who works mainly in Manila and who crafted the bar program at Gugu Room, a Japanese-Filipino izakaya in New York City. Mango is among those ingredients, particularly as Filipino mango offers its own distinct flavor profile. “Philippine mangoes are sweeter than Mexican mangoes, which you typically see in the US,” says Watson. “It’s closer in flavor to a peach.”",
+      "To round out this mango-fueled Daiquiri riff, Watson adds a spoonful of yuzu kosho, a Japanese chile sauce fermented with yuzu. “I like playing with less obvious and contrasting flavor pairings,” he says. It adds a little heat to the typical Daiquiri format, as does a rim of calamansi honey (calamansi, a flavor-packed citrus, being another common Filipino ingredient) and shichimi togarashi, a Japanese spice blend. Tanduay, a Filipino rum, is the final component of this cocktail that represents the melding of two Asian food cultures."
     ],
-        "ingredients": [
-          {
-            "name": "Calamansi honey",
-            "unit": "for rim"
-          },
-          {
-            "name": "Shichimi togarashi",
-            "unit": "for rim"
-          },
-          {
-            "name": "Tanduay Gold Asian rum",
-            "unit": "1 1/2 ounces"
-          },
-          {
-            "name": "Gina mango nectar",
-            "unit": "1 1/2 ounces"
-          },
-          {
-            "name": "lime juice",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "yuzu kosho",
-            "unit": "1/2 barspoon"
-          }
+    "ingredients": [
+      {
+        "name": "Calamansi honey",
+        "unit": "for rim"
+      },
+      {
+        "name": "Shichimi togarashi",
+        "unit": "for rim"
+      },
+      {
+        "name": "Tanduay Gold Asian rum",
+        "unit": "1 1/2 ounces"
+      },
+      {
+        "name": "Gina mango nectar",
+        "unit": "1 1/2 ounces"
+      },
+      {
+        "name": "lime juice",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "yuzu kosho",
+        "unit": "1/2 barspoon"
+      }
     ],
     "steps": [
-        "Prepare a coupe glass by dipping half the rim into calamansi honey, then into shichimi togarashi.",
-        "Add the remaining ingredients into a shaker with ice and shake until well-chilled.",
-        "Strain into the prepared coupe glass."
+      "Prepare a coupe glass by dipping half the rim into calamansi honey, then into shichimi togarashi.",
+      "Add the remaining ingredients into a shaker with ice and shake until well-chilled.",
+      "Strain into the prepared coupe glass."
     ],
     "category": {
       "by_spirit": "rum"
     },
-    "image":"https://www.liquor.com/thmb/j50zyRan6LWhXomS4iQm13W1_yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gugu-Room-El-Fili-Daiquiri-by-KK-Chote_MST-Creative-PR_main_720x720-38d3bd88270f4598af47618eddb5b30a.jpg"
+    "image": "https://www.liquor.com/thmb/j50zyRan6LWhXomS4iQm13W1_yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Gugu-Room-El-Fili-Daiquiri-by-KK-Chote_MST-Creative-PR_main_720x720-38d3bd88270f4598af47618eddb5b30a.jpg"
   },
   {
     "name": "Eggnog",
-    "id":11,
+    "id": 11,
     "description": [
-        "Eggnog, the creamy classic cocktail, is an essential part of the winter holidays. The recipe can vary depending on who’s making it, but the basic formula consists of eggs, sugar, milk and cream, plus a spirit. For the latter, most people turn to bourbon, rum or brandy, and some even elect to combine a couple spirits for oomph. Whichever route you choose, the potency of this drink will put a little more cheer in your holidays.",
-        "Eggnog has a rich history with a lot of competing claims as to the origin of the drink, many of which get lost in an etymological debate. It’s possible the word derives from an Old English term for strong beer. Or maybe it comes from noggin, an outdated word used to describe a small cup. Or perhaps the name aligns with grogs, the term given to a variety of alcoholic drinks.",
-        "In Europe, ale was eventually replaced by sherry. By the time the drink reached American shores, colonists replaced sherry with what they had on hand: rum, rye whiskey and brandy. Those early iterations of the cocktail had staying power, and today, Eggnog is still widely consumed throughout the U.S. and even into Canada. It’s especially popular during the holiday season and can be consumed hot or cold, per the drinker’s preference—and perhaps depending on how brisk the weather outside is.",
-        "Regardless of the cocktail’s origin or which spirit is best suited to the creamy mixture, everyone can agree on this: Eggnog is a universally delicious beverage with the capacity to improve any holiday gathering. And because it’s a good candidate for large batches, you’ll have plenty to keep everyone happy."
+      "Eggnog, the creamy classic cocktail, is an essential part of the winter holidays. The recipe can vary depending on who’s making it, but the basic formula consists of eggs, sugar, milk and cream, plus a spirit. For the latter, most people turn to bourbon, rum or brandy, and some even elect to combine a couple spirits for oomph. Whichever route you choose, the potency of this drink will put a little more cheer in your holidays.",
+      "Eggnog has a rich history with a lot of competing claims as to the origin of the drink, many of which get lost in an etymological debate. It’s possible the word derives from an Old English term for strong beer. Or maybe it comes from noggin, an outdated word used to describe a small cup. Or perhaps the name aligns with grogs, the term given to a variety of alcoholic drinks.",
+      "In Europe, ale was eventually replaced by sherry. By the time the drink reached American shores, colonists replaced sherry with what they had on hand: rum, rye whiskey and brandy. Those early iterations of the cocktail had staying power, and today, Eggnog is still widely consumed throughout the U.S. and even into Canada. It’s especially popular during the holiday season and can be consumed hot or cold, per the drinker’s preference—and perhaps depending on how brisk the weather outside is.",
+      "Regardless of the cocktail’s origin or which spirit is best suited to the creamy mixture, everyone can agree on this: Eggnog is a universally delicious beverage with the capacity to improve any holiday gathering. And because it’s a good candidate for large batches, you’ll have plenty to keep everyone happy."
     ],
-        "ingredients": [
-          {
-            "name": "eggs, separated",
-            "unit": "2"
-          },
-          {
-            "name": "sugar, divided",
-            "unit": "1/4 cup"
-          },
-          {
-            "name": "whole milk",
-            "unit": "1 1/2 cups"
-          },
-          {
-            "name": "heavy cream",
-            "unit": "1/2 cup"
-          },
-          {
-            "name": "rum",
-            "unit": "1/2 cup"
-          },
-          {
-            "name": "grated nutmeg",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "eggs, separated",
+        "unit": "2"
+      },
+      {
+        "name": "sugar, divided",
+        "unit": "1/4 cup"
+      },
+      {
+        "name": "whole milk",
+        "unit": "1 1/2 cups"
+      },
+      {
+        "name": "heavy cream",
+        "unit": "1/2 cup"
+      },
+      {
+        "name": "rum",
+        "unit": "1/2 cup"
+      },
+      {
+        "name": "grated nutmeg",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "In a large bowl, beat the egg yolks with 3 tablespoons of the sugar until fluffy.",
-        "Stir in the milk, heavy cream and your spirit of choice.",
-        "In a separate bowl, beat the egg whites with the remaining 1 tablespoon of sugar until soft peaks form.",
-        "Fold the egg whites into the yolk mixture.",
-        "Divide between four rocks glasses or punch or tea cups.",
-        "Garnish each with freshly grated nutmeg."
-
+      "In a large bowl, beat the egg yolks with 3 tablespoons of the sugar until fluffy.",
+      "Stir in the milk, heavy cream and your spirit of choice.",
+      "In a separate bowl, beat the egg whites with the remaining 1 tablespoon of sugar until soft peaks form.",
+      "Fold the egg whites into the yolk mixture.",
+      "Divide between four rocks glasses or punch or tea cups.",
+      "Garnish each with freshly grated nutmeg."
     ],
     "category": {
       "by_spirit": "rum"
     },
-    "image":"https://www.liquor.com/thmb/cHmskxIkboMb08KqiWZQ7xTY8Ww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__11__06162327__eggnog-720x720-recipe-b26c77ae1d6b4354af7b0428dcb8bab2.jpg"
+    "image": "https://www.liquor.com/thmb/cHmskxIkboMb08KqiWZQ7xTY8Ww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__11__06162327__eggnog-720x720-recipe-b26c77ae1d6b4354af7b0428dcb8bab2.jpg"
   },
   {
     "name": "Gin Rickey",
-    "id":12,
+    "id": 12,
     "description": [
-        "The Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.",
-        "When making a Rickey, feel free to choose your preferred style of gin. A London dry is always a fine choice, while more citrusy and floral gins will add their own nuance to the cocktail. Fresh lime is a must, and a good sparkling water—ideally from a bottle rather than a soda gun—keeps the drink fizzy and thirst-quenching.",
-        "The Gin Rickey remained a popular drink for decades, even appearing in the 1925 classic, “The Great Gatsby,” when Tom Buchanan served his guests a platter of Rickeys. In 2011, more than a century after its creation, the Rickey was officially declared Washington D.C.’s native cocktail, and today, it’s still a common serve in D.C. and beyond."
+      "The Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.",
+      "When making a Rickey, feel free to choose your preferred style of gin. A London dry is always a fine choice, while more citrusy and floral gins will add their own nuance to the cocktail. Fresh lime is a must, and a good sparkling water—ideally from a bottle rather than a soda gun—keeps the drink fizzy and thirst-quenching.",
+      "The Gin Rickey remained a popular drink for decades, even appearing in the 1925 classic, “The Great Gatsby,” when Tom Buchanan served his guests a platter of Rickeys. In 2011, more than a century after its creation, the Rickey was officially declared Washington D.C.’s native cocktail, and today, it’s still a common serve in D.C. and beyond."
     ],
-        "ingredients": [
-          {
-            "name": "gin",
-            "unit": "2 ounces"
-          },
-          {
-            "name": "lime juice",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "club soda",
-            "unit": "to top"
-          },
-          {
-            "name": "lime wheels",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "gin",
+        "unit": "2 ounces"
+      },
+      {
+        "name": "lime juice",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "club soda",
+        "unit": "to top"
+      },
+      {
+        "name": "lime wheels",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Fill a highball glass with ice and add the gin and lime juice.",
-        "Top with club soda.",
-        "Garnish with 2 lime wheels."
+      "Fill a highball glass with ice and add the gin and lime juice.",
+      "Top with club soda.",
+      "Garnish with 2 lime wheels."
     ],
     "category": {
       "by_spirit": "gin"
     },
-    "image":"https://www.liquor.com/thmb/BpnWySkatro7AynKIr_SLE-YVOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__06__06221712__gin-rickey-720x720-recipe-2d83797a7edc4f8ea9455f160e497dc2.jpg"
+    "image": "https://www.liquor.com/thmb/BpnWySkatro7AynKIr_SLE-YVOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__06__06221712__gin-rickey-720x720-recipe-2d83797a7edc4f8ea9455f160e497dc2.jpg"
   },
   {
     "name": "Gin & Juice",
-    "id":13,
+    "id": 13,
     "description": [
-        "It doesn’t get much easier than the Gin & Juice in the canon of easy cocktails. This smooth-sipping, two-part drink is as easy to make as the name implies, but there’s a reason this classic cocktail has a Snoop Dogg song named after it. It’s fruity and refreshing, and the exact recipe is up to you. So you get to play bartender whenever you mix one up.",
-        "You don’t need to overthink this one. Grab your favorite fruit juice and whatever gin you have on hand, and you’re set. But if you want to think just a bit, consider which type of gin might pair best with your juice. You can’t go wrong with a juniper-forward London dry gin, which works with nearly any juice you can source, from lemon and lime to orange and grapefruit. Softer gins can work great, too, but depending on their botanical makeup, they may pair better with sweeter OJ or more sour grapefruit.",
-        "If you’re stuck, try a dry gin with equal parts orange and ruby red grapefruit juice. Or try grapefruit with a dash of lime. Both are refreshing and exactly what you want on a warm day.",
-        "Some Gin & Juice recipes call for simple syrup. If you like your drinks on the sweeter side, add a half ounce, especially if you’re primarily using grapefruit juice or if you added lemon or lime to your glass. Whichever recipe you choose, you’re in for a solid treat. So mix up this Gin & Juice recipe when you have your mind on your money and your money on your mind."
+      "It doesn’t get much easier than the Gin & Juice in the canon of easy cocktails. This smooth-sipping, two-part drink is as easy to make as the name implies, but there’s a reason this classic cocktail has a Snoop Dogg song named after it. It’s fruity and refreshing, and the exact recipe is up to you. So you get to play bartender whenever you mix one up.",
+      "You don’t need to overthink this one. Grab your favorite fruit juice and whatever gin you have on hand, and you’re set. But if you want to think just a bit, consider which type of gin might pair best with your juice. You can’t go wrong with a juniper-forward London dry gin, which works with nearly any juice you can source, from lemon and lime to orange and grapefruit. Softer gins can work great, too, but depending on their botanical makeup, they may pair better with sweeter OJ or more sour grapefruit.",
+      "If you’re stuck, try a dry gin with equal parts orange and ruby red grapefruit juice. Or try grapefruit with a dash of lime. Both are refreshing and exactly what you want on a warm day.",
+      "Some Gin & Juice recipes call for simple syrup. If you like your drinks on the sweeter side, add a half ounce, especially if you’re primarily using grapefruit juice or if you added lemon or lime to your glass. Whichever recipe you choose, you’re in for a solid treat. So mix up this Gin & Juice recipe when you have your mind on your money and your money on your mind."
     ],
-        "ingredients": [
-          {
-            "name": "gin",
-            "unit": "1 1/2 ounces"
-          },
-          {
-            "name": "juice",
-            "unit": "to top"
-          }
+    "ingredients": [
+      {
+        "name": "gin",
+        "unit": "1 1/2 ounces"
+      },
+      {
+        "name": "juice",
+        "unit": "to top"
+      }
     ],
     "steps": [
-        "Fill a Collins glass with ice and add the gin.",
-        "Fill with the juice and stir."
+      "Fill a Collins glass with ice and add the gin.",
+      "Fill with the juice and stir."
     ],
     "category": {
       "by_spirit": "gin"
     },
-    "image":"https://www.liquor.com/thmb/HU0jnh833z084TeuTKQXhJtA_So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__11__06100319__gin-and-juice-720x720-recipe-a5a7ad4756a34e3eb1e4cdfb3de22392.jpg"
+    "image": "https://www.liquor.com/thmb/HU0jnh833z084TeuTKQXhJtA_So=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2017__11__06100319__gin-and-juice-720x720-recipe-a5a7ad4756a34e3eb1e4cdfb3de22392.jpg"
   },
   {
     "name": "Green Deacon",
-    "id":14,
+    "id": 14,
     "description": [
-        "At first glance after making the Green Deacon, you might be wondering where it got its name. This gin concoction comes out vividly orange thanks to the addition of grapefruit juice and sloe gin, not green. But its creator, bartending veteran behind New York City’s PDT and Portland, Oregon’s Takibi, Jim Meehan, has a story for how the drink was named.",
-        "Meehan created the Green Deacon when Plymouth introduced its sloe gin to the United States. “This one was created when Plymouth Sloe Gin became available, many years after I’d begged Simon Ford [of Ford’s Gin and previous Plymouth brand ambassador] and Pernod Ricard to import it to the US,” Meehan says. His tweak to the drink was simple but dramatic: a rinse of absinthe, which at the time of the drink’s creation had just returned to the US for the first time since Prohibition. “Absinthe was still a popular ingredient back then—as it had just been legalized in 2007—and a friend named J.C. Iglesias suggested I add a rinse of it to the classic Rosy Deacon cocktail I’d served him,” Meehan explains. “We named the Rosy Deacon variation the Green Deacon to delineate the difference the rinse made to the original formula.”",
-        "Because of the particularities of its ingredients, it’s not recommended to substitute another dry gin or sloe gin. If you’re really set on creating the Green Deacon at home, it’s advisable to stick with Plymouth for both, as that’s what his drink is balanced around. The absinthe, however, is more versatile as it only rinses the glass. Meehan suggests using one from St. George, a celebrated Californian distillery.",
-        "While the grapefruit garnish might look a bit funny in a small cocktail glass, it’s all part of the presentation and the drink’s charm."
+      "At first glance after making the Green Deacon, you might be wondering where it got its name. This gin concoction comes out vividly orange thanks to the addition of grapefruit juice and sloe gin, not green. But its creator, bartending veteran behind New York City’s PDT and Portland, Oregon’s Takibi, Jim Meehan, has a story for how the drink was named.",
+      "Meehan created the Green Deacon when Plymouth introduced its sloe gin to the United States. “This one was created when Plymouth Sloe Gin became available, many years after I’d begged Simon Ford [of Ford’s Gin and previous Plymouth brand ambassador] and Pernod Ricard to import it to the US,” Meehan says. His tweak to the drink was simple but dramatic: a rinse of absinthe, which at the time of the drink’s creation had just returned to the US for the first time since Prohibition. “Absinthe was still a popular ingredient back then—as it had just been legalized in 2007—and a friend named J.C. Iglesias suggested I add a rinse of it to the classic Rosy Deacon cocktail I’d served him,” Meehan explains. “We named the Rosy Deacon variation the Green Deacon to delineate the difference the rinse made to the original formula.”",
+      "Because of the particularities of its ingredients, it’s not recommended to substitute another dry gin or sloe gin. If you’re really set on creating the Green Deacon at home, it’s advisable to stick with Plymouth for both, as that’s what his drink is balanced around. The absinthe, however, is more versatile as it only rinses the glass. Meehan suggests using one from St. George, a celebrated Californian distillery.",
+      "While the grapefruit garnish might look a bit funny in a small cocktail glass, it’s all part of the presentation and the drink’s charm."
     ],
-        "ingredients": [
-          {
-            "name": "absinthe",
-            "unit": "to rinse"
-          },
-          {
-            "name": "Plymouth gin",
-            "unit": "1 1/2 ounces"
-          },
-          {
-            "name": "Plymouth sloe gin",
-            "unit": "3/4 ounce"
-          },
-          {
-            "name": "grapefruit juice",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "grapefruit wedge",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "absinthe",
+        "unit": "to rinse"
+      },
+      {
+        "name": "Plymouth gin",
+        "unit": "1 1/2 ounces"
+      },
+      {
+        "name": "Plymouth sloe gin",
+        "unit": "3/4 ounce"
+      },
+      {
+        "name": "grapefruit juice",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "grapefruit wedge",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Rinse a chilled cocktail or coupe glass with absinthe and set aside.",
-        "Add the Plymouth gin, Plymouth sloe gin and grapefruit juice into a cocktail shaker with ice and shake until well-chilled.",
-        "Double-strain into the prepared glass.",
-        "Garnish with a grapefruit wedge."
+      "Rinse a chilled cocktail or coupe glass with absinthe and set aside.",
+      "Add the Plymouth gin, Plymouth sloe gin and grapefruit juice into a cocktail shaker with ice and shake until well-chilled.",
+      "Double-strain into the prepared glass.",
+      "Garnish with a grapefruit wedge."
     ],
     "category": {
       "by_spirit": "gin"
     },
-    "image":"https://www.liquor.com/thmb/P8OE7mamfJD74OOWdSIE59HFXX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/green-deacon-720x720-primary-8508096a2a8b4c9dab7ab63dea90fbf0.jpg"
+    "image": "https://www.liquor.com/thmb/P8OE7mamfJD74OOWdSIE59HFXX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/green-deacon-720x720-primary-8508096a2a8b4c9dab7ab63dea90fbf0.jpg"
   },
   {
     "name": "Sloe Gin Fizz",
-    "id":15,
+    "id": 15,
     "description": [
-        "Sloes are tiny berries that grow wild in hedgerows around England. Unpleasantly astringent on their own, they are popular in sweetened jams and preserves, and they develop a rich, tart flavor when infused in gin. Naturally, enterprising distillers have been incorporating them into liquor since the 17th century. The spirit takes on the essence and bright color of the berries, and then sugar is typically added to counter the fruit’s tartness. What’s left is not technically gin, but actually a gin-based liqueur.",
-        "To experience the authentic flavor of sloe berries, use a British-style sloe gin, such as Plymouth, Hayman’s or Sipsmith. Most sloe gins are less boozy than their unflavored counterparts, and it’s common for them to clock in around 25% to 30% ABV.",
-        "The Sloe Gin Fizz is a breezy take on the classic Gin Fizz, which uses a not-sloe variety as its base. While most Gin Fizzes employ egg white for a silky texture and creamy head, the sloe version often skips this protein-packed ingredient. However, that doesn’t mean you have to. If you’d like to add egg white to your drink, simply shake all the ingredients without ice to emulsify the egg with the liquids, then shake again with ice to chill the drink. You’ll be left with the same refreshing cocktail you know and love, but one that’s sporting a richer body and thicker head.",
-        "Another easy way to experiment with the cocktail is by splitting the base between sloe gin and dry gin. This results in a cocktail that walks the line between a Gin Fizz and Sloe Gin Fizz, with milder berry notes and a fainter color—but one that still features the same easy-drinking sensibilities."
+      "Sloes are tiny berries that grow wild in hedgerows around England. Unpleasantly astringent on their own, they are popular in sweetened jams and preserves, and they develop a rich, tart flavor when infused in gin. Naturally, enterprising distillers have been incorporating them into liquor since the 17th century. The spirit takes on the essence and bright color of the berries, and then sugar is typically added to counter the fruit’s tartness. What’s left is not technically gin, but actually a gin-based liqueur.",
+      "To experience the authentic flavor of sloe berries, use a British-style sloe gin, such as Plymouth, Hayman’s or Sipsmith. Most sloe gins are less boozy than their unflavored counterparts, and it’s common for them to clock in around 25% to 30% ABV.",
+      "The Sloe Gin Fizz is a breezy take on the classic Gin Fizz, which uses a not-sloe variety as its base. While most Gin Fizzes employ egg white for a silky texture and creamy head, the sloe version often skips this protein-packed ingredient. However, that doesn’t mean you have to. If you’d like to add egg white to your drink, simply shake all the ingredients without ice to emulsify the egg with the liquids, then shake again with ice to chill the drink. You’ll be left with the same refreshing cocktail you know and love, but one that’s sporting a richer body and thicker head.",
+      "Another easy way to experiment with the cocktail is by splitting the base between sloe gin and dry gin. This results in a cocktail that walks the line between a Gin Fizz and Sloe Gin Fizz, with milder berry notes and a fainter color—but one that still features the same easy-drinking sensibilities."
     ],
-        "ingredients": [
-          {
-            "name": "sloe gin",
-            "unit": "1 1/2 ounces"
-          },
-          {
-            "name": "lemon juice",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "simple syrup",
-            "unit": "3/4 ounce"
-          },
-          {
-            "name": "club soda",
-            "unit": "to top"
-          },
-          {
-            "name": "lemon wedge",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "sloe gin",
+        "unit": "1 1/2 ounces"
+      },
+      {
+        "name": "lemon juice",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "simple syrup",
+        "unit": "3/4 ounce"
+      },
+      {
+        "name": "club soda",
+        "unit": "to top"
+      },
+      {
+        "name": "lemon wedge",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add the sloe gin, lemon juice and simple syrup into a cocktail shaker with ice, and shake until well-chilled.",
-        "Fill a highball or Collins glass with ice, and strain the contents of the shaker into the glass.",
-        "Top with the club soda.",
-        "Garnish with a lemon wedge and a cherry."
+      "Add the sloe gin, lemon juice and simple syrup into a cocktail shaker with ice, and shake until well-chilled.",
+      "Fill a highball or Collins glass with ice, and strain the contents of the shaker into the glass.",
+      "Top with the club soda.",
+      "Garnish with a lemon wedge and a cherry."
     ],
     "category": {
       "by_spirit": "gin"
     },
-    "image":"https://www.liquor.com/thmb/4O5qXa_tjOZFpyXdCHQ4-8a84TY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sloe-gin-fizz-720x720-recipe-efa104c8bfd64d38a8909da22a45d0c2.jpg"
+    "image": "https://www.liquor.com/thmb/4O5qXa_tjOZFpyXdCHQ4-8a84TY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sloe-gin-fizz-720x720-recipe-efa104c8bfd64d38a8909da22a45d0c2.jpg"
   },
   {
     "name": "Silver Fizz",
-    "id":16,
+    "id": 16,
     "description": [
-        "The world’s spirits are like any one of us. They’ve each got their likes and dislikes, and their friends and enemies. Some of them are solitary sorts, not much given to mixing with their peers. Baijiu might be a fascinating and heady spirit when sipped in little (but frequently refilled) thimble-cups, but just try fixing cocktails with it. It even makes a lousy Old Fashioned, and nothing makes a lousy Old Fashioned.",
-        "The first actual drink to make full use of this raffish trio was the Silver Fizz, an early variation on the Gin Fizz. The Silver Fizz pops up in New York (and, soon after, everywhere else) in the early 1880s, a scant half-decade after we first see the plain version appear. “A body of creamy liquid topped by about an inch of frothy foam,” as the Chicago Tribune described it in 1883, this “very tempting” quick refresher rapidly gained a reputation, in an age before Alka-Seltzer, as the morning stomach-settler par excellence.",
-        "Add a splash of cream and a couple drops of orange flower water and shake it until all the ice has melted, as Henry C. “Carl” Ramos would start doing at his New Orleans bar in 1887, and you have something so delectable as to invite comparisons to Mediterranean sunsets, mountain meadows and poems of old. His Ramos Gin Fizz is still a popular cocktail on menus around the country.",
-        "Some 40 years later, Harry Craddock, at the Savoy Hotel in London, would substitute Cointreau for the sugar in the Silver Fizz and take the combination in a slightly different direction with his White Lady, perhaps the greatest of all art-deco cocktails.",
-        "However odd, any relationship this fertile has to be a good one."
+      "The world’s spirits are like any one of us. They’ve each got their likes and dislikes, and their friends and enemies. Some of them are solitary sorts, not much given to mixing with their peers. Baijiu might be a fascinating and heady spirit when sipped in little (but frequently refilled) thimble-cups, but just try fixing cocktails with it. It even makes a lousy Old Fashioned, and nothing makes a lousy Old Fashioned.",
+      "The first actual drink to make full use of this raffish trio was the Silver Fizz, an early variation on the Gin Fizz. The Silver Fizz pops up in New York (and, soon after, everywhere else) in the early 1880s, a scant half-decade after we first see the plain version appear. “A body of creamy liquid topped by about an inch of frothy foam,” as the Chicago Tribune described it in 1883, this “very tempting” quick refresher rapidly gained a reputation, in an age before Alka-Seltzer, as the morning stomach-settler par excellence.",
+      "Add a splash of cream and a couple drops of orange flower water and shake it until all the ice has melted, as Henry C. “Carl” Ramos would start doing at his New Orleans bar in 1887, and you have something so delectable as to invite comparisons to Mediterranean sunsets, mountain meadows and poems of old. His Ramos Gin Fizz is still a popular cocktail on menus around the country.",
+      "Some 40 years later, Harry Craddock, at the Savoy Hotel in London, would substitute Cointreau for the sugar in the Silver Fizz and take the combination in a slightly different direction with his White Lady, perhaps the greatest of all art-deco cocktails.",
+      "However odd, any relationship this fertile has to be a good one."
     ],
-        "ingredients": [
-          {
-            "name": "white granulated sugar",
-            "unit": "1 teaspoon"
-          },
-          {
-            "name": "lemon juice",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "London Dry or Old Tom gin",
-            "unit": "2 ounces"
-          },
-          {
-            "name": "club soda",
-            "unit": "to top"
-          },
-          {
-            "name": "club soda, chilled",
-            "unit": "1 to 2 ounces"
-          }
+    "ingredients": [
+      {
+        "name": "white granulated sugar",
+        "unit": "1 teaspoon"
+      },
+      {
+        "name": "lemon juice",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "London Dry or Old Tom gin",
+        "unit": "2 ounces"
+      },
+      {
+        "name": "club soda",
+        "unit": "to top"
+      },
+      {
+        "name": "club soda, chilled",
+        "unit": "1 to 2 ounces"
+      }
     ],
     "steps": [
-        "Add the sugar and lemon juice into a shaker and stir.",
-        "Add the gin and the egg white and vigorously dry-shake (without ice).",
-        "Add ice and shake again until well-chilled.",
-        "Strain into a chilled 6- to 8-ounce Collins glass.",
-        "Top with the club soda."
+      "Add the sugar and lemon juice into a shaker and stir.",
+      "Add the gin and the egg white and vigorously dry-shake (without ice).",
+      "Add ice and shake again until well-chilled.",
+      "Strain into a chilled 6- to 8-ounce Collins glass.",
+      "Top with the club soda."
     ],
     "category": {
       "by_spirit": "gin"
     },
-    "image":"https://www.liquor.com/thmb/JvBSuEyngrE7qHy-4jpkE1STig0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/silver-fizz-720x720-primary-25f412af61f8434a93ea2f81b2c3d95c.jpg"
+    "image": "https://www.liquor.com/thmb/JvBSuEyngrE7qHy-4jpkE1STig0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/silver-fizz-720x720-primary-25f412af61f8434a93ea2f81b2c3d95c.jpg"
   },
   {
     "name": "Mai Tai",
-    "id":17,
+    "id": 17,
     "description": [
-        "The Mai Tai is one of the most famous Tiki drinks in the world. Composed of rum, orange curaçao, fresh lime juice and orgeat (a nuanced almond syrup), it’s held sway over cocktail enthusiasts and Tiki aficionados for decades. It even enjoyed a star turn in the Elvis film “Blue Hawaii.”",
-        "While the Mai Tai was created as a way to showcase the flavors of good-quality rum, it took a wrong turn over the decades as bartenders employed bottled juices and mixers. Those yielded neon-colored or overly sweet cocktails. Fortunately, a renewed interest in Tiki cocktails has returned the Mai Tai to prominence as a fresh, balanced, rum-forward cocktail.",
-        "Once the drink is shaken and served over ice (crushed is best), it’s time for the garnish. Go wild, if you’re feeling creative. Some Mai Tais feature everything from pineapple wedges to cherries on top. But if you’d like to keep the presentation cool and classic, a lime wheel and mint spring are a fine choice.",
-        "And as for the name: Supposedly, the first person to try the cocktail was said to cry out “Mai Tai!” which means “the best—out of this world” in Tahitian."
+      "The Mai Tai is one of the most famous Tiki drinks in the world. Composed of rum, orange curaçao, fresh lime juice and orgeat (a nuanced almond syrup), it’s held sway over cocktail enthusiasts and Tiki aficionados for decades. It even enjoyed a star turn in the Elvis film “Blue Hawaii.”",
+      "While the Mai Tai was created as a way to showcase the flavors of good-quality rum, it took a wrong turn over the decades as bartenders employed bottled juices and mixers. Those yielded neon-colored or overly sweet cocktails. Fortunately, a renewed interest in Tiki cocktails has returned the Mai Tai to prominence as a fresh, balanced, rum-forward cocktail.",
+      "Once the drink is shaken and served over ice (crushed is best), it’s time for the garnish. Go wild, if you’re feeling creative. Some Mai Tais feature everything from pineapple wedges to cherries on top. But if you’d like to keep the presentation cool and classic, a lime wheel and mint spring are a fine choice.",
+      "And as for the name: Supposedly, the first person to try the cocktail was said to cry out “Mai Tai!” which means “the best—out of this world” in Tahitian."
     ],
-        "ingredients": [
-          {
-            "name": "white rum",
-            "unit": "1 1/2 ounces"
-          },
-          {
-            "name": "orange curaçao",
-            "unit": "3/4 ounce"
-          },
-          {
-            "name": "lime juice",
-            "unit": "3/4 ounce"
-          },
-          {
-            "name": "orgeat",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "dark rum",
-            "unit": "1/2 ounce"
-          },
-          {
-            "name": "lime wheel",
-            "unit": "garnish"
-          },
-          {
-            "name": "mint sprig",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "white rum",
+        "unit": "1 1/2 ounces"
+      },
+      {
+        "name": "orange curaçao",
+        "unit": "3/4 ounce"
+      },
+      {
+        "name": "lime juice",
+        "unit": "3/4 ounce"
+      },
+      {
+        "name": "orgeat",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "dark rum",
+        "unit": "1/2 ounce"
+      },
+      {
+        "name": "lime wheel",
+        "unit": "garnish"
+      },
+      {
+        "name": "mint sprig",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add the white rum, curaçao, lime juice and orgeat into a shaker with crushed ice and shake lightly (about 3 seconds).",
-        "Pour into a double rocks glass.",
-        "Float the dark rum over the top.",
-        "Garnish with a lime wheel and mint sprig."
+      "Add the white rum, curaçao, lime juice and orgeat into a shaker with crushed ice and shake lightly (about 3 seconds).",
+      "Pour into a double rocks glass.",
+      "Float the dark rum over the top.",
+      "Garnish with a lime wheel and mint sprig."
     ],
     "category": {
       "by_spirit": "rum"
     },
-    "image":"https://www.liquor.com/thmb/QFaWkCkbgqR7glXLi4cnKuKbBDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mai-tai-720x720-primary-e09e24f1cacd4b3896f5aa32ba51dcdd.jpg"
+    "image": "https://www.liquor.com/thmb/QFaWkCkbgqR7glXLi4cnKuKbBDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mai-tai-720x720-primary-e09e24f1cacd4b3896f5aa32ba51dcdd.jpg"
   },
   {
     "name": "Stinger",
-    "id":18,
+    "id": 18,
     "description": [
-        "The Stinger is a pre-Prohibition drink composed simply of cognac and white crème de menthe. The odd couple is quite a pair, producing a cocktail that’s sweet, strong, minty and refreshing—the ideal interplay for an after-dinner nightcap.",
-        "The exact origins of the Stinger are murky, but it appeared in print at least as far back as 1914, when Jacques Straub included it in his book “Drinks.” In the book “Imbibe!,” drinks historian and author David Wondrich reports that the Stinger is most famously associated with Reginald Vanderbilt—yes, of the Vanderbilts. A 1923 Ohio newspaper article even credited him with the invention, noting that he was fond of serving them to guests at his home beginning two decades prior. So, it seems we can thank ol’ Reggie for giving us this classic.",
-        "Vanderbilt’s taste for the Stinger solidified its high-society bonafides, and for decades the drink was associated with the upper class. It even appeared in the 1956 movie “High Society” starring Frank Sinatra and Bing Crosby, and James Bond drinks one in the 1956 novel “Diamonds Are Forever.” The Stinger remained popular in the United States, inside and outside of pop culture, until about the 1970s when it fell out of favor.",
-        "Stinger recipes vary in proportion, with some drinkers preferring a drier version made with less crème de menthe. Stinger recipes also typically call for the drink to be shaken, an anomaly for cocktails comprising all spirits. This recipe hews classic, in proportion and technique, stirring two parts cognac with one part crème de menthe before straining it into a rocks glass. Serve the drink over crushed ice for an extra dose of refreshment, and you will render the perfect digestif."
+      "The Stinger is a pre-Prohibition drink composed simply of cognac and white crème de menthe. The odd couple is quite a pair, producing a cocktail that’s sweet, strong, minty and refreshing—the ideal interplay for an after-dinner nightcap.",
+      "The exact origins of the Stinger are murky, but it appeared in print at least as far back as 1914, when Jacques Straub included it in his book “Drinks.” In the book “Imbibe!,” drinks historian and author David Wondrich reports that the Stinger is most famously associated with Reginald Vanderbilt—yes, of the Vanderbilts. A 1923 Ohio newspaper article even credited him with the invention, noting that he was fond of serving them to guests at his home beginning two decades prior. So, it seems we can thank ol’ Reggie for giving us this classic.",
+      "Vanderbilt’s taste for the Stinger solidified its high-society bonafides, and for decades the drink was associated with the upper class. It even appeared in the 1956 movie “High Society” starring Frank Sinatra and Bing Crosby, and James Bond drinks one in the 1956 novel “Diamonds Are Forever.” The Stinger remained popular in the United States, inside and outside of pop culture, until about the 1970s when it fell out of favor.",
+      "Stinger recipes vary in proportion, with some drinkers preferring a drier version made with less crème de menthe. Stinger recipes also typically call for the drink to be shaken, an anomaly for cocktails comprising all spirits. This recipe hews classic, in proportion and technique, stirring two parts cognac with one part crème de menthe before straining it into a rocks glass. Serve the drink over crushed ice for an extra dose of refreshment, and you will render the perfect digestif."
     ],
-        "ingredients": [
-          {
-            "name": " cognac",
-            "unit": "2 ounces"
-          },
-          {
-            "name": "white creme de menthe",
-            "unit": "1 ounce"
-          }
+    "ingredients": [
+      {
+        "name": " cognac",
+        "unit": "2 ounces"
+      },
+      {
+        "name": "white creme de menthe",
+        "unit": "1 ounce"
+      }
     ],
     "steps": [
-        "Add the cognac and white crème de menthe into a mixing glass with ice and stir until well-chilled.",
-        "Strain into a rocks glass over crushed ice."
+      "Add the cognac and white crème de menthe into a mixing glass with ice and stir until well-chilled.",
+      "Strain into a rocks glass over crushed ice."
     ],
     "category": {
       "by_spirit": "cognac"
     },
-    "image":"https://www.liquor.com/thmb/2U4t08gHLmDjyNKhrTreIAIAfek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/stinger-720x720-primary-4eb90bfa30454bf2a670653f75188c04.jpg"
+    "image": "https://www.liquor.com/thmb/2U4t08gHLmDjyNKhrTreIAIAfek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/stinger-720x720-primary-4eb90bfa30454bf2a670653f75188c04.jpg"
   },
   {
     "name": "Porto Flip",
-    "id":19,
+    "id": 19,
     "description": [
-        "Flips are a type of cocktail characterized by the inclusion of an entire egg. Cocktails that call for egg whites are, of course, common; it’s a way of adding texture and body to a drink. It’s less common to use the yolks as well, however, which is why those drinks get their own category. Flips tend to be rich and frothy cold-weather drinks. This one is a perfect example.",
-        "This variation on a Porto Flip comes from distiller and bar pro Allen Katz. In its most traditional form, the cocktail calls for brandy, tawny port, and an egg yolk. The drink is itself a variation on the Coffee Cocktail that appeared in Jerry Thomas’s 1862 cocktail guide The Bartender’s Guide: How to Mix Drinks; A Bon Vivant’s Companion (which doesn’t actually contain any coffee; the drink was named for its appearance).",
-        "Katz changes up the standard quite a bit: He increases the quantity of port over what’s typically called for and swaps out the nutty tawny version for the fruitier ruby type; he upgrades standard brandy to cognac; he opts for a whole egg rather than just the yolk, and he adds in a splash of heavy cream for extra rich body and flavor. Most notably, a barspoon of yellow Chartreuse is added at the end, its sweet, herbaceous notes topping the drink.",
-        "It all adds up to a richly textured cocktail full of autumn and winter flavors, ideal for cold-weather sipping."
+      "Flips are a type of cocktail characterized by the inclusion of an entire egg. Cocktails that call for egg whites are, of course, common; it’s a way of adding texture and body to a drink. It’s less common to use the yolks as well, however, which is why those drinks get their own category. Flips tend to be rich and frothy cold-weather drinks. This one is a perfect example.",
+      "This variation on a Porto Flip comes from distiller and bar pro Allen Katz. In its most traditional form, the cocktail calls for brandy, tawny port, and an egg yolk. The drink is itself a variation on the Coffee Cocktail that appeared in Jerry Thomas’s 1862 cocktail guide The Bartender’s Guide: How to Mix Drinks; A Bon Vivant’s Companion (which doesn’t actually contain any coffee; the drink was named for its appearance).",
+      "Katz changes up the standard quite a bit: He increases the quantity of port over what’s typically called for and swaps out the nutty tawny version for the fruitier ruby type; he upgrades standard brandy to cognac; he opts for a whole egg rather than just the yolk, and he adds in a splash of heavy cream for extra rich body and flavor. Most notably, a barspoon of yellow Chartreuse is added at the end, its sweet, herbaceous notes topping the drink.",
+      "It all adds up to a richly textured cocktail full of autumn and winter flavors, ideal for cold-weather sipping."
     ],
-        "ingredients": [
-          {
-            "name": " ruby port",
-            "unit": "1 3/4 ounces"
-          },
-          {
-            "name": "cognac",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "heavy cream",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "whole egg",
-            "unit": "1"
-          },
-          {
-            "name": "extra-fine sugar",
-            "unit": "1.5 teaspoons"
-          },
-          {
-            "name": "yellow Chartreuse",
-            "unit": "1 barspoon"
-          },
-          {
-            "name": " grated nutmeg",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": " ruby port",
+        "unit": "1 3/4 ounces"
+      },
+      {
+        "name": "cognac",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "heavy cream",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "whole egg",
+        "unit": "1"
+      },
+      {
+        "name": "extra-fine sugar",
+        "unit": "1.5 teaspoons"
+      },
+      {
+        "name": "yellow Chartreuse",
+        "unit": "1 barspoon"
+      },
+      {
+        "name": " grated nutmeg",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add all ingredients except the Chartreuse into a shaker and vigorously dry-shake (without ice).",
-        "Open the shaker and add ice, and shake again until well-chilled.",
-        "Strain into a chilled cocktail glass.",
-        "Add the Chartreuse.",
-        "Top with a light dusting of freshly grated nutmeg."
+      "Add all ingredients except the Chartreuse into a shaker and vigorously dry-shake (without ice).",
+      "Open the shaker and add ice, and shake again until well-chilled.",
+      "Strain into a chilled cocktail glass.",
+      "Add the Chartreuse.",
+      "Top with a light dusting of freshly grated nutmeg."
     ],
     "category": {
       "by_spirit": "cognac"
     },
-    "image":"https://www.liquor.com/thmb/BF0qvT3nNFhmQngwPE2w3HzfypA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/porto-flip-720x720-primary-1cd2de9da74648889edb1bdeea49e1a5.jpg"
+    "image": "https://www.liquor.com/thmb/BF0qvT3nNFhmQngwPE2w3HzfypA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/porto-flip-720x720-primary-1cd2de9da74648889edb1bdeea49e1a5.jpg"
   },
   {
     "name": "Coffee Cocktail",
-    "id":20,
+    "id": 20,
     "description": [
-        "The Coffee Cocktail is a classic concoction, developed sometime in the late 19th Century. Today, its recipe tends to be adapted from its first published iteration in the famed “Jerry Thomas’s Guide to Bartending” from the grandfather of modern bartending. While recipes may slightly differ from source to source, one thing is consistent—despite the name, this historic drink contains no coffee or caffeine of any sort.",
-        "The name likely comes from the fact that once the drink is shaken and served, it looks a bit like a coffee drink with lots of foamy milk. That’s the conclusion that Thomas came to in his book, at least, writing that while it had no coffee and no bitters (the latter of which was required for a cocktail at the time), it looked like coffee when “properly concocted.” Instead, it’s closest to a Brandy Flip, a historic drink category that uses a whole egg rather than only the whites, like many sours do.",
-        "Cognac is the base of the Coffee Cocktail, but it also gets an equal amount of ruby port, which is brighter than most ports with a fruity sweetness. There are plenty of brands of each on the market, so use whatever fits best in your bar for drinks like the Sidecar.",
-        "Simple syrup sweetens the drink, and the whole egg gives it a rich, creamy mouthfeel. It’s important to properly shake the cocktail, preferably with a dry shake first (no ice) before adding the ice to really agitate and foam it. You’ll know you’ve done it right if it looks like a foamy coffee drink when poured into a port glass.",
-        "If you like this classic version of the recipe, you might also enjoy the take on it from Dead Rabbit, New York’s famed Irish bar. This version includes Irish whiskey and Irish cream for an especially rich treat."
+      "The Coffee Cocktail is a classic concoction, developed sometime in the late 19th Century. Today, its recipe tends to be adapted from its first published iteration in the famed “Jerry Thomas’s Guide to Bartending” from the grandfather of modern bartending. While recipes may slightly differ from source to source, one thing is consistent—despite the name, this historic drink contains no coffee or caffeine of any sort.",
+      "The name likely comes from the fact that once the drink is shaken and served, it looks a bit like a coffee drink with lots of foamy milk. That’s the conclusion that Thomas came to in his book, at least, writing that while it had no coffee and no bitters (the latter of which was required for a cocktail at the time), it looked like coffee when “properly concocted.” Instead, it’s closest to a Brandy Flip, a historic drink category that uses a whole egg rather than only the whites, like many sours do.",
+      "Cognac is the base of the Coffee Cocktail, but it also gets an equal amount of ruby port, which is brighter than most ports with a fruity sweetness. There are plenty of brands of each on the market, so use whatever fits best in your bar for drinks like the Sidecar.",
+      "Simple syrup sweetens the drink, and the whole egg gives it a rich, creamy mouthfeel. It’s important to properly shake the cocktail, preferably with a dry shake first (no ice) before adding the ice to really agitate and foam it. You’ll know you’ve done it right if it looks like a foamy coffee drink when poured into a port glass.",
+      "If you like this classic version of the recipe, you might also enjoy the take on it from Dead Rabbit, New York’s famed Irish bar. This version includes Irish whiskey and Irish cream for an especially rich treat."
     ],
-        "ingredients": [
-          {
-            "name": "cognac",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "ruby port",
-            "unit": "1 ounce"
-          },
-          {
-            "name": "whole egg",
-            "unit": "1"
-          },
-          {
-            "name": "simple syrup",
-            "unit": "3/4 ounce"
-          },
-          {
-            "name": " grated nutmeg",
-            "unit": "garnish"
-          }
+    "ingredients": [
+      {
+        "name": "cognac",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "ruby port",
+        "unit": "1 ounce"
+      },
+      {
+        "name": "whole egg",
+        "unit": "1"
+      },
+      {
+        "name": "simple syrup",
+        "unit": "3/4 ounce"
+      },
+      {
+        "name": " grated nutmeg",
+        "unit": "garnish"
+      }
     ],
     "steps": [
-        "Add all ingredients except the Chartreuse into a shaker and vigorously dry-shake (without ice).",
-        "Open the shaker and add ice, and shake again until well-chilled.",
-        "Strain into a chilled cocktail glass.",
-        "Add the Chartreuse.",
-        "Top with a light dusting of freshly grated nutmeg."
+      "Add all ingredients except the Chartreuse into a shaker and vigorously dry-shake (without ice).",
+      "Open the shaker and add ice, and shake again until well-chilled.",
+      "Strain into a chilled cocktail glass.",
+      "Add the Chartreuse.",
+      "Top with a light dusting of freshly grated nutmeg."
     ],
     "category": {
       "by_spirit": "cognac"
     },
-    "image":"https://www.liquor.com/thmb/O4MRMnuhB3-d_4yTQQWsd8ZJYC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffee-cocktail-720x720-primary-6e0fd82723454f61b1f4241d81a6e9cb.jpg"
+    "image": "https://www.liquor.com/thmb/O4MRMnuhB3-d_4yTQQWsd8ZJYC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffee-cocktail-720x720-primary-6e0fd82723454f61b1f4241d81a6e9cb.jpg"
   }
 ]
