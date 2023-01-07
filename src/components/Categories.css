@@ -1,0 +1,19 @@
+.categories{
+    width: 100vw;
+    display: flex;
+}
+
+.categories__button{
+    width: 100%;
+    font-family: inherit;
+    border: none;
+    background-color: transparent;
+    height: 2rem;
+    cursor: pointer;
+    color: rgb(254, 197, 124);
+    text-transform: uppercase;
+}
+.categories__button:hover{
+    background-color: rgb(254, 197, 124);
+    color: rgb(13, 16, 12);
+}

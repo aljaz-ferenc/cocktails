@@ -1,0 +1,41 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.header a{
+    font-family: inherit;
+    text-decoration: none;
+    color: #fff;
+    position: relative;
+    font-size: 1.5rem;
+}
+
+.header a:hover{
+    color: rgb(254, 197, 124);
+}
+
+.header .active{
+    color: rgb(254, 197, 124);
+}
+
+.header a::after{
+    content: '';
+    width: 0;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(254, 197, 124);
+    left: 50%;
+    transform: translateX(-50%);
+    transition: .2s;
+}
+
+.header .active::after{
+    width: 120%;
+}
+
+.header a:hover::after{
+    width: 120%;
+}

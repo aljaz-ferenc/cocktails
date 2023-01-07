@@ -1,0 +1,96 @@
+.cocktail-card{
+    width: 15rem;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 100px rgb(177, 97, 26);
+    text-decoration: none;
+    color: inherit;
+}
+ 
+.cocktail-card__text-container{
+    padding:.5rem;
+    padding-top: .3rem;
+    position: relative;
+    height: 100%;
+    background-color: #fff;
+}
+
+.cocktail-card__name{
+    text-align: left;
+}
+
+.cocktail-card__category{
+    color: rgb(129, 47, 60);
+    font-weight: 500;
+    text-align: left;
+}
+
+.cocktail-card__image img{
+    width: 100%;
+    transition: all 0.3s;
+    scale: 1.05;
+}
+.cocktail-card__image{
+   overflow: hidden;
+}
+
+.cocktail-card__image--container{
+    position: relative;
+}
+
+.cocktail-card__ingredients{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    color: #fff;
+    transition: opacity 0.3s;
+    font-size: .8rem;
+}
+
+.cocktail-card__ingredients::before{
+    content:"You will need:";
+    font-weight: 500;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    min-width: max-content;
+}
+
+.cocktail-card:hover .image-img{
+    filter: brightness(.3);
+    scale: 1.1;
+}
+
+.cocktail-card:hover .cocktail-card__ingredients{
+    opacity: 1;
+} 
+
+.cocktail-card__star{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 2%;
+    z-index: 1;
+}
+.star-img{
+    width: 1rem;
+    filter: saturate(0);
+    opacity: .5;
+    z-index: 10;
+    transition: filter .2s;
+}
+
+.star-img:hover{
+    filter: saturate(0) brightness(.5);
+}
+
+.star-img.active{
+    filter: saturate(1);
+    opacity: 1;
+}

@@ -1,0 +1,75 @@
+.hero{
+    height: 100vh;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+    background-blend-mode: lighten;
+}
+
+.hero__text{
+    text-align: left;
+    color: rgb(254, 197, 124);
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding-right: 5rem;
+    font-size: 1.5rem;
+    font-family: 'Dancing Script';
+    font-size: 2rem;
+    grid-column: 2;
+}
+
+.hero__text p:first-child{
+    font-size: 5rem;
+}
+
+.hero-img__container{
+    grid-column: 1;
+}
+
+.hero-img{
+    width: 100%;
+    filter: drop-shadow(0 0 50px rgb(254, 197, 124));
+} 
+
+.hero__link a:link,
+.hero__link a:visited{
+    font-family: 'Poppins';
+    text-decoration: none;
+    color: #fff;
+}
+
+.hero__link{
+    cursor: pointer;
+    width: fit-content;
+}
+
+.link-arrow{
+    opacity: 0;
+    color: #fff;
+}
+.hero__link:hover a{
+    filter: drop-shadow(0 0 10px rgb(254, 197, 124));
+    transition: all .1s;
+    font-style: italic;
+}
+.hero__link:hover .link-arrow{
+    display: inline-block;
+    animation: arrow 1s infinite;
+}
+
+@keyframes arrow{
+    0%{
+        transform: translateX(0);
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        transform: translateX(50px);
+        opacity: 0;
+    }
+}
+
