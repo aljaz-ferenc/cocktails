@@ -39,3 +39,9 @@
 .header a:hover::after{
     width: 120%;
 }
+
+@media (max-width: 425px){
+    .header{
+        display: none;
+    }
+}

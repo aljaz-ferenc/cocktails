@@ -1,3 +1,7 @@
+.cocktails-page{
+    padding-top: 5rem;
+}
+
 .cocktails-list{
     display: flex;
     gap: 1rem;
@@ -9,4 +13,10 @@
 .categories{
     display: flex;
     color: #fff;
+}
+
+@media (max-width: 425px){
+    .cocktails-page{
+        padding-top: 0.1rem;
+    }
 }

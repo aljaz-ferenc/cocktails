@@ -29,14 +29,20 @@ export default function RecipePage({ handleAddToFavorites, handleRemoveFromFavor
   return (
     <>
       <section className='recipe-section'>
-          {favorites.some(fav => fav === id) || <img src={starSolid} id={id} className='fav-icon' onClick={handleAddToFavorites} title='Add to favorites' />}
-          {favorites.some(fav => fav === id) && <img src={starSolid} id={id} className='fav-icon active' onClick={handleRemoveFromFavorites} />}
+        <div>
+
+          <Link to='/cocktails' className='recipe-section__back-btn'>
+            <svg fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 9V5.25A2.25 2.25 0 0013.5 3h-6a2.25 2.25 0 00-2.25 2.25v13.5A2.25 2.25 0 007.5 21h6a2.25 2.25 0 002.25-2.25V15M12 9l-3 3m0 0l3 3m-3-3h12.75"></path>
+            </svg>
+            <span>Back to Cocktails</span>
+          </Link>
+            <h2 className='recipe__name'>{cocktail.name}</h2>
+        </div>
+        {favorites.some(fav => fav === id) || <img src={starSolid} id={id} className='fav-icon' onClick={handleAddToFavorites} title='Add to favorites' />}
+        {favorites.some(fav => fav === id) && <img src={starSolid} id={id} className='fav-icon active' onClick={handleRemoveFromFavorites} />}
         <div className='recipe'>
           <img className='recipe__image' src={cocktail.image} />
-          <div className='recipe__text--description'>
-            <h2>About the {cocktail.name}</h2>
-            {description}
-          </div>
           <div className='recipe__text--ingredients'>
             <h2>INGREDIENTS</h2>
             <ul className='recipe__ingredients'>
@@ -45,15 +51,17 @@ export default function RecipePage({ handleAddToFavorites, handleRemoveFromFavor
           </div>
           <div className='recipe__text--steps'>
             <h2>STEPS</h2>
-            <ol>
+            <ol className='recipe__steps'>
               {steps}
             </ol>
+          </div>
+          <div className='recipe__text--description'>
+            {description}
           </div>
         </div>
         <div>
           {/* {similarCocktails} */}
         </div>
-        <Link to='/cocktails'>Back to Cocktails</Link>
       </section>
     </>
   )
