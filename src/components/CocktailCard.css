@@ -7,6 +7,7 @@
     box-shadow: 0 0 100px rgb(177, 97, 26);
     text-decoration: none;
     color: inherit;
+    border-radius: 5px;
 }
  
 .cocktail-card__text-container{

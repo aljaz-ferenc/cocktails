@@ -10,7 +10,7 @@
     background-blend-mode: lighten;
 }
 
-.hero__text{
+ .hero__text{
     text-align: left;
     color: rgb(254, 197, 124);
     display: flex;
@@ -33,7 +33,7 @@
 
 .hero-img{
     width: 100%;
-} 
+}  
 
 .hero__link a:link,
 .hero__link a:visited{

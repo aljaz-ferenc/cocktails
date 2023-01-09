@@ -18,8 +18,6 @@ export default function Categories({ handleCategoryClick, category }) {
     const closeMobileMenu = function () {
         setMobile(false)
         setMobileClass('categories__buttons hide')
-
-        console.log(mobileClass)
     }
 
     return (

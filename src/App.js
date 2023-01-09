@@ -45,7 +45,6 @@ function App() {
             </Route>
           </CocktailsContext.Provider>
         </Switch>
-        {/* <WavesBackground /> */}
       </main>
     </div>
   );
