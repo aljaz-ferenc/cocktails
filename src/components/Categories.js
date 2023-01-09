@@ -36,9 +36,7 @@ export default function Categories({ handleCategoryClick, category }) {
                 <button onClickCapture={closeMobileMenu} value='rum' className={category === 'rum' ? 'categories__button active' : 'categories__button'} onClick={handleCategoryClick}>rum</button>
                 <button onClickCapture={closeMobileMenu} value='all' className={category === 'all' ? 'categories__button active' : 'categories__button'} onClick={handleCategoryClick}>all</button>
                 <button onClickCapture={closeMobileMenu} value='favorites' className={category === 'favorites' ? 'categories__button active' : 'categories__button'} onClick={handleCategoryClick}>favorites</button>
-                {mobile === true && <Link to='/' className='categories__button' onClickCapture={closeMobileMenu} >home</Link>}
-                {/* {mobile === true && <Link to='/cocktails' className='categories__button' onClickCapture={closeMobileMenu} >cocktails</Link>} */}
-            
+                {mobile === true && <Link to='/' className='categories__button' onClickCapture={closeMobileMenu} >home</Link>}            
             </div>
         </div>
     )

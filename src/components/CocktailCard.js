@@ -1,6 +1,5 @@
 import React, {useEffect, useRef, useState} from 'react'
 import './CocktailCard.css'
-import starSolid from '../icons/star-filled.png'
 import { Link } from 'react-router-dom'
 
 export default function CocktailCard({showCocktail, favorites, id, name, description, ingredients, steps, image, category, handleAddToFavorites }) {

@@ -1,5 +1,4 @@
 import React, { useContext, useState, useEffect} from 'react'
-import { Link } from 'react-router-dom'
 import { CocktailsContext } from '../App'
 import CocktailCard from '../components/CocktailCard'
 import './CocktailsPage.css'

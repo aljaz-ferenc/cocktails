@@ -19,7 +19,6 @@ export default function WelcomePage() {
                         <span className='link-arrow'>&rarr;</span>
                     </div>
                 </div>
-                {/* <p className='cocktails-page__text'>Whether you're a seasoned mixologist or just starting out, you'll find something to suit your skills and tastes. Our recipes include step-by-step instructions and all the ingredients you'll need to make each cocktail. We also offer tips and variations to help you customize your creations to your own preferences.</p> */}
             </div>
         </Fragment>
     )
