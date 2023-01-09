@@ -6,7 +6,6 @@ import './WelcomePage.css'
 export default function WelcomePage() {
     return (
         <Fragment>
-
             <div className='hero'>
                 <div className='hero-img__container'>
                     <img className='hero-img' src={heroImg} />
