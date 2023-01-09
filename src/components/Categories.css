@@ -9,13 +9,16 @@
 
 .categories__button{
     width: 100%;
-    font-family: inherit;
     border: none;
     background-color: transparent;
     height: 2rem;
     cursor: pointer;
     color: rgb(254, 197, 124);
     text-transform: uppercase;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    text-decoration: none;
 }
 
 .categories__button.active{

@@ -11,7 +11,6 @@ export default function CocktailsPage({ category, handleAddToFavorites, handleCa
     const [favoriteCocktailsID, setFavoriteCocktailsID] = useState([])
     const [favoriteCocktails, setFavoriteCocktails] = useState([])
 
-
     useEffect(() => {
         if (category === 'all') {
             setFilteredCocktails(cocktails)
@@ -39,6 +38,7 @@ export default function CocktailsPage({ category, handleAddToFavorites, handleCa
     return (
         <section className='cocktails-page'>
             <Categories category={category} handleCategoryClick={handleCategoryClick} />
+                <h2 className='mobile-category'>{category}</h2>
             <div className='cocktails-list'>
                 {filteredCocktails.map((cocktail, index) => {
                     return (

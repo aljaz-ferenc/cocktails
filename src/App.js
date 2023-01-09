@@ -35,19 +35,19 @@ function App() {
     <div className="App">
       <Header />
       <main>
-    <ScrollToTop>
-        <Switch>
-          <Route path='/' exact component={WelcomePage} />
-          <CocktailsContext.Provider value={recipes}>
-            <Route path='/cocktails' exact >
-              <CocktailsPage favorites={favorites} handleCategoryClick={handleCategoryClick} category={category} />
-            </Route>
-            <Route path='/cocktails/:cocktailId'>
-              <RecipePage favorites={favorites} handleRemoveFromFavorites={handleRemoveFromFavorites} handleAddToFavorites={handleAddToFavorites} />
-            </Route>
-          </CocktailsContext.Provider>
-        </Switch>
-    </ScrollToTop>
+        <ScrollToTop>
+          <Switch>
+            <Route path='/' exact component={WelcomePage} />
+            <CocktailsContext.Provider value={recipes}>
+              <Route path='/cocktails' exact >
+                <CocktailsPage favorites={favorites} handleCategoryClick={handleCategoryClick} category={category} />
+              </Route>
+              <Route path='/cocktails/:cocktailId'>
+                <RecipePage favorites={favorites} handleRemoveFromFavorites={handleRemoveFromFavorites} handleAddToFavorites={handleAddToFavorites} />
+              </Route>
+            </CocktailsContext.Provider>
+          </Switch>
+        </ScrollToTop>
       </main>
     </div>
   );
