@@ -13,7 +13,6 @@ export default function Categories({ handleCategoryClick, category }) {
     const openMobileMenu = function () {
         setMobile(true)
         setMobileClass('categories__buttons show')
-        console.log(mobileClass)
     }
 
     const closeMobileMenu = function () {
