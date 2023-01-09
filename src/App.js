@@ -6,6 +6,7 @@ import CocktailsPage from './pages/CocktailsPage';
 import RecipePage from './pages/RecipePage';
 import Header from './components/Header';
 import recipes from './recipes.json'
+import ScrollToTop from './components/ScrollToTop';
 
 export const CocktailsContext = createContext()
 
@@ -34,6 +35,7 @@ function App() {
     <div className="App">
       <Header />
       <main>
+    <ScrollToTop>
         <Switch>
           <Route path='/' exact component={WelcomePage} />
           <CocktailsContext.Provider value={recipes}>
@@ -45,6 +47,7 @@ function App() {
             </Route>
           </CocktailsContext.Provider>
         </Switch>
+    </ScrollToTop>
       </main>
     </div>
   );
