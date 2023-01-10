@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { useParams } from 'react-router-dom'
 import { CocktailsContext } from '../App'
 import './RecipePage.css'
-import starSolid from '../icons/star-filled.png'
+import starImg from '../icons/star-img.png'
 
 
 export default function RecipePage({ handleAddToFavorites, handleRemoveFromFavorites, favorites }) {
@@ -37,10 +37,10 @@ export default function RecipePage({ handleAddToFavorites, handleRemoveFromFavor
           </Link>
             <h2 className='recipe__name'>{cocktail.name}</h2>
         </div>
-        {favorites.some(fav => fav === id) || <img src={starSolid} id={id} className='fav-icon' onClick={handleAddToFavorites} title='Add to favorites' />}
-        {favorites.some(fav => fav === id) && <img src={starSolid} id={id} className='fav-icon active' onClick={handleRemoveFromFavorites} />}
+        {favorites.some(fav => fav === id) || <img src={starImg} id={id} className='fav-icon' onClick={handleAddToFavorites} alt='favorites icon' title='Add to favorites' />}
+        {favorites.some(fav => fav === id) && <img src={starImg} id={id} className='fav-icon active' onClick={handleRemoveFromFavorites} alt='favorites icon' title='Remove from favorites' />}
         <div className='recipe'>
-          <img className='recipe__image' src={cocktail.image} />
+          <img className='recipe__image' src={cocktail.image} alt='cocktail image' />
           <div className='recipe__text--ingredients'>
             <h2>INGREDIENTS</h2>
             <ul className='recipe__ingredients'>

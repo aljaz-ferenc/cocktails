@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
-import heroImg from '../images/hero-img9.png'
+import heroImg from '../images/hero-img.webp'
 import './WelcomePage.css'
 
 export default function WelcomePage() {
@@ -8,7 +8,7 @@ export default function WelcomePage() {
         <Fragment>
             <div className='hero'>
                 <div className='hero-img__container'>
-                    <img className='hero-img' src={heroImg} />
+                    <img className='hero-img' src={heroImg} alt="cocktail with smoke around it" />
                 </div>
                 <div className='hero__text'>
                     <h1 className='hero__header'>Welcome to our cocktail recipe collection!</h1>
