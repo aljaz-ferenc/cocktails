@@ -24,6 +24,7 @@
 .categories__button.active{
     background-color: rgb(254, 197, 124);
     color: rgb(13, 16, 12);
+    height: fit-content;
 }
 
 .categories__button:hover{
@@ -43,7 +44,7 @@
     z-index: 1000;
 }
 
-@media (max-width: 425px){
+@media (max-width: 580px){
     .categories{
         flex-direction: column;
         position: absolute;

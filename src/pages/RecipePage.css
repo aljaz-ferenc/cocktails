@@ -75,7 +75,11 @@
 .recipe__steps {
   display: flex;
   flex-direction: column;
-  gap: 1.2rem;
+  list-style-position: inside;
+}
+
+.recipe__ingredients{
+  list-style-image: url(../icons/cocktail-icon.png);
 }
 
 .recipe__steps {
