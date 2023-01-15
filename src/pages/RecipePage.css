@@ -75,6 +75,7 @@
 .recipe__steps {
   display: flex;
   flex-direction: column;
+  gap: 1.5rem;
   list-style-position: inside;
 }
 
